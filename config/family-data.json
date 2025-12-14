@@ -630,8 +630,8 @@
         },
         {
           "id": "gordon-yama-lo-du",
-          "name": "Gordon Yama Lo’du",
-          "info": "Gordon Yama Lo’du was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "name": "Gordon Yama Lo'du",
+          "info": "Gordon Yama Lo'du was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
           "fatherId": "abrama-mogga",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1054,8 +1054,8 @@
         },
         {
           "id": "emmanuel-lo-du",
-          "name": "Emmanuel Lo’du",
-          "info": "Emmanuel Lo’du was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "name": "Emmanuel Lo'du",
+          "info": "Emmanuel Lo'du was a child of Purumena Tutuan and Poni Na Kei. No further details.",
           "fatherId": "purumena-logborong-tutuan",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1146,7 +1146,7 @@
           "info": "Julius Bongo was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
-          "deathYear": "unknown"
+          "deathYear": "Active"
         },
         {
           "id": "rejoice-jaguru",
@@ -1190,8 +1190,8 @@
         },
         {
           "id": "nora-balai",
-          "name": "Nora ‘Balai",
-          "info": "Nora ‘Balai was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "name": "Nora 'Balai",
+          "info": "Nora 'Balai was a child of Morris Murye and Christina ‘Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1199,7 +1199,7 @@
         {
           "id": "helda-suku",
           "name": "Helda Suku",
-          "info": "Helda Suku was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Helda Suku was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1207,7 +1207,7 @@
         {
           "id": "rasulia-modong",
           "name": "Rasulia Modong",
-          "info": "Rasulia Modong was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Rasulia Modong was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1215,7 +1215,7 @@
         {
           "id": "wanijo",
           "name": "Wanijo",
-          "info": "Wanijo was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Wanijo was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1223,15 +1223,15 @@
         {
           "id": "lucia-yanya",
           "name": "Lucia Yanya",
-          "info": "Lucia Yanya was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Lucia Yanya was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
         },
         {
           "id": "isso-gire",
-          "name": "Isso (Gire)",
-          "info": "Isso, also called Gire, was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "name": "Isso Gire",
+          "info": "Isso, also called Gire, was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1239,7 +1239,7 @@
         {
           "id": "mama-of-christina",
           "name": "Mama (of Christina)",
-          "info": "Mama was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Mama was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1247,7 +1247,7 @@
         {
           "id": "margret-yine",
           "name": "Margret Yine",
-          "info": "Margret Yine was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Margret Yine was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1255,7 +1255,7 @@
         {
           "id": "muggo-of-christina",
           "name": "Muggo (of Christina)",
-          "info": "Muggo was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Muggo was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "unknown",
           "deathYear": "unknown"
