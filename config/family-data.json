@@ -1,170 +1,267 @@
 {
   "generations": [
     {
-      "title": "First Generation",
+      "title": "First Generation (Grandparents – Father Side)",
       "people": [
         {
-          "id": "emmanuel",
-          "name": "Emmanuel",
-          "birthYear": 1820,
-          "deathYear": 1900,
-          "info": "Founder of the Jonyari family; father of Wani, Bongo, Joseph."
+          "id": "murye-morris",
+          "name": "Murye Morris",
+          "birthDate": "1920-01-01",
+          "info": "Grandfather (father side). Husband of Rebecca Kiden.",
+          "spouseId": "rebecca-kiden"
+        },
+        {
+          "id": "rebecca-kiden",
+          "name": "Rebecca Kiden",
+          "birthDate": "1925-01-01",
+          "info": "Grandmother (father side). Wife of Murye Morris.",
+          "spouseId": "murye-morris"
         }
       ]
     },
     {
-      "title": "Second Generation",
+      "title": "Second Generation (Children of Murye Morris)",
       "people": [
         {
-          "id": "wani",
-          "name": "Wani",
-          "birthYear": 1845,
-          "deathYear": 1925,
-          "info": "Eldest son; father of Soso and Losuba.",
-          "fatherId": "emmanuel"
+          "id": "azaria-wolyan",
+          "name": "Azaria Wolyan",
+          "birthDate": "1945-01-01",
+          "info": "First born son.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
         },
         {
-          "id": "bongo",
-          "name": "Bongo",
-          "birthYear": 1850,
-          "deathYear": 1895,
-          "info": "Second son; father of Murye and Morris.",
-          "fatherId": "emmanuel"
+          "id": "soso-chaplain",
+          "name": "Soso Chaplain",
+          "birthDate": "1951-01-01",
+          "info": "Son.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
         },
         {
-          "id": "joseph",
-          "name": "Joseph",
-          "birthYear": 1855,
-          "deathYear": 1938,
-          "info": "Third son; father of Kiden and Adede. ",
-          "fatherId": "emmanuel"
+          "id": "simon-wolyan",
+          "name": "Simon Wolyan",
+          "birthDate": "1955-01-01",
+          "info": "Son.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "cecilia-yine",
+          "name": "Cecilia Yine",
+          "birthDate": "1958-01-01",
+          "info": "Daughter.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "joseph-loguli",
+          "name": "Joseph Loguli",
+          "birthDate": "1960-01-01",
+          "info": "Son.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden",
+          "spouseId": "margaret-loguli"
+        },
+        {
+          "id": "margaret-loguli",
+          "name": "Margaret Loguli",
+          "birthDate": "1962-01-01",
+          "info": "Wife of Joseph Loguli."
+        },
+        {
+          "id": "poni-rejoice",
+          "name": "Poni Rejoice",
+          "birthDate": "1962-01-01",
+          "info": "Daughter.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "bongo-julius",
+          "name": "Bongo Julius",
+          "birthDate": "1965-01-01",
+          "info": "Son. Father with two wives.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden",
+          "spouseIds": ["rejoice-jaguru", "juan-adjumani"]
+        },
+        {
+          "id": "oliva-losuba",
+          "name": "Oliva Losuba",
+          "birthDate": "1968-01-01",
+          "info": "Son.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
         }
       ]
     },
     {
-      "title": "Third Generation",
+      "title": "Third Generation (Wives of Bongo Julius)",
       "people": [
         {
-          "id": "soso",
-          "name": "Soso",
-          "birthYear": 1870,
-          "deathYear": 1955,
-          "info": "Eldest son of Wani; father of Margaret.",
-          "fatherId": "wani"
+          "id": "rejoice-jaguru",
+          "name": "Rejoice Jaguru",
+          "birthDate": "1973-01-01",
+          "info": "First wife of Bongo Julius."
         },
         {
-          "id": "losuba",
-          "name": "Losuba",
-          "birthYear": 1873,
-          "deathYear": 1958,
-          "info": "Second son of Wani; father of Lucia.",
-          "fatherId": "wani"
-        },
-        {
-          "id": "murye",
-          "name": "Murye",
-          "birthYear": 1880,
-          "deathYear": 1970,
-          "info": "Son of Bongo; father of Poni, Annet, Rebecca, Tongidyang.",
-          "fatherId": "bongo"
-        },
-        {
-          "id": "morris",
-          "name": "Morris",
-          "birthYear": 1885,
-          "deathYear": 1960,
-          "info": "Son of Joseph; father of Gwolo.",
-          "fatherId": "joseph"
+          "id": "juan-adjumani",
+          "name": "Juan Adjumani",
+          "birthDate": "1974-01-01",
+          "info": "Second wife of Bongo Julius."
         }
       ]
     },
     {
-      "title": "Fourth Generation",
+      "title": "Third Generation (Children of Joseph Loguli & Margaret Loguli)",
       "people": [
         {
-          "id": "kiden",
-          "name": "Kiden",
-          "birthYear": 1900,
-          "deathYear": 1980,
-          "info": "Son of Soso; father of Tonny Sebang.",
-          "fatherId": "soso"
+          "id": "adede-loguli",
+          "name": "Adede Loguli",
+          "birthDate": "2002-10-10",
+          "info": "Daughter of Joseph and Margaret Loguli. Single.",
+          "fatherId": "joseph-loguli",
+          "motherId": "margaret-loguli",
+          "maritalStatus": "single"
         },
         {
-          "id": "adede",
-          "name": "Adede",
-          "birthYear": 1905,
-          "deathYear": 1985,
-          "info": "Son of Losuba; father of Lagu.",
-          "fatherId": "losuba"
-        },
-        {
-          "id": "margaret",
-          "name": "Margaret",
-          "birthYear": 1903,
-          "deathYear": 1965,
-          "info": "Daughter of Murye; mother of Duku.",
-          "fatherId": "murye"
-        },
-        {
-          "id": "lucia",
-          "name": "Lucia",
-          "birthYear": 1908,
-          "deathYear": 1992,
-          "info": "Daughter of Murye; mother of Evaline.",
-          "fatherId": "murye"
-        },
-        {
-          "id": "poni",
-          "name": "Poni",
-          "birthYear": 1910,
-          "deathYear": 1990,
-          "info": "Son of Morris; father of Julius.",
-          "fatherId": "morris"
+          "id": "lupai-loguli",
+          "name": "Lupai Loguli",
+          "birthDate": "2004-01-01",
+          "info": "Son of Joseph and Margaret Loguli. Single.",
+          "fatherId": "joseph-loguli",
+          "motherId": "margaret-loguli",
+          "maritalStatus": "single"
         }
       ]
     },
     {
-      "title": "Fifth Generation",
+      "title": "Fourth Generation (Children of Bongo Julius & Rejoice Jaguru)",
       "people": [
         {
-          "id": "annet",
-          "name": "Annet",
-          "birthYear": 1930,
-          "deathYear": 2010,
-          "info": "Daughter of Tonny Sebang; mother of Rejoice.",
-          "fatherId": "kiden"
+          "id": "adede-annet",
+          "name": "Adede Annet",
+          "birthDate": "1994-04-12",
+          "info": "Alive. Married.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
         },
         {
-          "id": "rebecca",
-          "name": "Rebecca",
-          "birthYear": 1935,
-          "deathYear": 2005,
-          "info": "Daughter of Lagu; mother of Jaguru.",
-          "fatherId": "adede"
+          "id": "poni-jaguru",
+          "name": "Poni Jaguru",
+          "birthDate": "1997-01-01",
+          "deathDate": "2000-01-01",
+          "info": "Deceased.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
         },
         {
-          "id": "tongidyang",
-          "name": "Tongidyang",
-          "birthYear": 1940,
-          "deathYear": 2020,
-          "info": "Son of Duku; father of Celina.",
-          "fatherId": "margaret"
+          "id": "emmanuel-wani",
+          "name": "Emmanuel Wani",
+          "birthDate": "1999-09-09",
+          "info": "Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
         },
         {
-          "id": "gwolo",
-          "name": "Gwolo",
-          "birthYear": 1945,
-          "deathYear": 2015,
-          "info": "Son of Evaline; father of Kenyi.",
-          "fatherId": "lucia"
+          "id": "evaline-juru",
+          "name": "Evaline Juru",
+          "birthDate": "2002-07-14",
+          "info": "Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
         },
         {
-          "id": "tonny-sebang",
-          "name": "Tonny Sebang",
-          "birthYear": 1948,
-          "deathYear": 2020,
-          "info": "Son of Poni; father of Lupai.",
-          "fatherId": "poni"
+          "id": "yangi-sain",
+          "name": "Yangi Sain",
+          "birthDate": "2004-01-01",
+          "deathDate": "2005-10-01",
+          "info": "Deceased.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "kiden-patience",
+          "name": "Kiden Patience",
+          "birthDate": "2008-02-01",
+          "info": "Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Generation (Children of Bongo Julius & Juan Adjumani)",
+      "people": [
+        {
+          "id": "kenyi-godwin",
+          "name": "Kenyi Godwin",
+          "birthDate": "1999-01-01",
+          "info": "Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "lupai-surprise",
+          "name": "Lupai Surprise",
+          "birthDate": "2002-01-01",
+          "info": "Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "wani-bongo",
+          "name": "Wani Bongo",
+          "birthDate": "2004-10-01",
+          "info": "Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "adede-julius",
+          "name": "Adede Julius",
+          "birthDate": "2006-01-01",
+          "info": "Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "poni-bongo",
+          "name": "Poni Bongo",
+          "birthDate": "2007-01-01",
+          "info": "Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        }
+      ]
+    },
+    {
+      "title": "Sixth Generation (Children of Adede Annet)",
+      "people": [
+        {
+          "id": "moses-pitia",
+          "name": "Moses Pitia",
+          "birthDate": "2015-02-01",
+          "info": "Alive. Single.",
+          "motherId": "adede-annet",
+          "fatherId": "theophilus-dilla"
+        },
+        {
+          "id": "jason-sakor",
+          "name": "Jason Sakor",
+          "birthDate": "2023-03-01",
+          "info": "Alive. Single.",
+          "motherId": "adede-annet",
+          "fatherId": "theophilus-dilla"
+        },
+        {
+          "id": "peggy-konga",
+          "name": "Peggy Konga",
+          "birthDate": "2025-07-23",
+          "info": "Alive. Single.",
+          "motherId": "adede-annet",
+          "fatherId": "theophilus-dilla"
         }
       ]
     }
