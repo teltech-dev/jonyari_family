@@ -1,0 +1,164 @@
+{
+  "generations": [
+    {
+      "title": "First Generation",
+      "people": [
+        {
+          "id": "bai-meng-xiong",
+          "name": "Bai Mengxiong",
+          "birthYear": 1820,
+          "deathYear": 1900,
+          "info": "Founder of the mansion house and imperial physician; father of three sons: Bai Yingyuan, Bai Yingxuan, Bai Yingyu."
+        }
+      ]
+    },
+    {
+      "title": "Second Generation",
+      "people": [
+        {
+          "id": "bai-ying-yuan",
+          "name": "Bai Yingyuan",
+          "birthYear": 1845,
+          "deathYear": 1925,
+          "info": "Eldest son who inherited the family business; married to Li; father of two sons: Bai Jingyi and Bai Jingsi.",
+          "fatherId": "bai-meng-xiong"
+        },
+        {
+          "id": "bai-ying-xuan",
+          "name": "Bai Yingxuan",
+          "birthYear": 1850,
+          "deathYear": 1895,
+          "info": "Second son; married to Bai Wen (second wife); father of one son Bai Jingqi and one daughter Bai Yuting.",
+          "fatherId": "bai-meng-xiong"
+        },
+        {
+          "id": "bai-ying-yu",
+          "name": "Bai Yingyu",
+          "birthYear": 1855,
+          "deathYear": 1938,
+          "info": "Third son, a playboy; married to Zhou; father of one son Bai Jingwu and one daughter Bai Yufen.",
+          "fatherId": "bai-meng-xiong"
+        }
+      ]
+    },
+    {
+      "title": "Third Generation",
+      "people": [
+        {
+          "id": "bai-jing-yi",
+          "name": "Bai Jingyi",
+          "birthYear": 1870,
+          "deathYear": 1955,
+          "info": "Eldest son of Bai Yingyuan; continued the medical practice; married to Wang; father of Bai Zhanyuan.",
+          "fatherId": "bai-ying-yuan"
+        },
+        {
+          "id": "bai-jing-si",
+          "name": "Bai Jingsi",
+          "birthYear": 1873,
+          "deathYear": 1958,
+          "info": "Second son of Bai Yingyuan; married to Zhao; father of Bai Zhanguang.",
+          "fatherId": "bai-ying-yuan"
+        },
+        {
+          "id": "bai-jing-qi",
+          "name": "Bai Jingqi",
+          "birthYear": 1880,
+          "deathYear": 1970,
+          "info": "Only son of Bai Yingxuan and a central figure of the mansion; first married to Huang Chun, later to Yang Jiuhong and Li Xiangxiu; father of four sons: Bai Jingye, Bai Jinggong, Bai Jingsheng, and Bai Jingtang.",
+          "fatherId": "bai-ying-xuan"
+        },
+        {
+          "id": "bai-jing-wu",
+          "name": "Bai Jingwu",
+          "birthYear": 1885,
+          "deathYear": 1960,
+          "info": "Son of Bai Yingyu; married to Sun; father of Bai Zhanhai.",
+          "fatherId": "bai-ying-yu"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Generation",
+      "people": [
+        {
+          "id": "bai-zhan-yuan",
+          "name": "Bai Zhanyuan",
+          "birthYear": 1900,
+          "deathYear": 1980,
+          "info": "Son of Bai Jingyi; joined the revolution; married to He Qi; father of Bai Jianguo.",
+          "fatherId": "bai-jing-yi"
+        },
+        {
+          "id": "bai-zhan-guang",
+          "name": "Bai Zhanguang",
+          "birthYear": 1905,
+          "deathYear": 1985,
+          "info": "Son of Bai Jingsi; married to Wu; father of Bai Xiaomei (daughter).",
+          "fatherId": "bai-jing-si"
+        },
+        {
+          "id": "bai-jing-ye",
+          "name": "Bai Jingye",
+          "birthYear": 1903,
+          "deathYear": 1965,
+          "info": "Eldest son of Bai Jingqi; a prodigal; married to Tang Youqiong; father of Bai Zhan'an.",
+          "fatherId": "bai-jing-qi"
+        },
+        {
+          "id": "bai-jing-gong",
+          "name": "Bai Jinggong",
+          "birthYear": 1908,
+          "deathYear": 1992,
+          "info": "Second son of Bai Jingqi; inherited the family business; married to Zhou; father of Bai Zhanping.",
+          "fatherId": "bai-jing-qi"
+        },
+        {
+          "id": "bai-zhan-hai",
+          "name": "Bai Zhanhai",
+          "birthYear": 1910,
+          "deathYear": 1990,
+          "info": "Son of Bai Jingwu; married to Li; father of Bai Jianjun.",
+          "fatherId": "bai-jing-wu"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Generation",
+      "people": [
+        {
+          "id": "bai-jian-guo",
+          "name": "Bai Jianguo",
+          "birthYear": 1930,
+          "deathYear": 2010,
+          "info": "Son of Bai Zhanyuan; an engineer; married to Zhang Lihua; father of Bai Haoran.",
+          "fatherId": "bai-zhan-yuan"
+        },
+        {
+          "id": "bai-zhan-an",
+          "name": "Bai Zhan'an",
+          "birthYear": 1935,
+          "deathYear": 2005,
+          "info": "Son of Bai Jingye; married to Wang Xiulan; father of Bai Yuxin (daughter).",
+          "fatherId": "bai-jing-ye"
+        },
+        {
+          "id": "bai-zhan-ping",
+          "name": "Bai Zhanping",
+          "birthYear": 1940,
+          "deathYear": 2020,
+          "info": "Son of Bai Jinggong; a businessman; married to Chen Meiling; father of Bai Haoyu.",
+          "fatherId": "bai-jing-gong"
+        },
+        {
+          "id": "bai-jian-jun",
+          "name": "Bai Jianjun",
+          "birthYear": 1945,
+          "deathYear": 2015,
+          "info": "Son of Bai Zhanhai; a doctor; married to Liu Fang; father of Bai Haoxuan.",
+          "fatherId": "bai-zhan-hai"
+        }
+      ]
+    }
+  ]
+}

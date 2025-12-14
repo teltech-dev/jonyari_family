@@ -1,0 +1,17 @@
+{
+  "generations": [
+    {
+      "title": "Generation Name",
+      "people": [
+        {
+          "id": "person-id",
+          "name": "Full Name",
+          "info": "Description",
+          "fatherId": "Father ID",
+          "birthYear": 1900,
+          "deathYear": 1980
+        }
+      ]
+    }
+  ]
+}
