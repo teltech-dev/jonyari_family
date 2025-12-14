@@ -36,18 +36,18 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
       const data = await response.json();
       
       if (data.success) {
-        setDebug(`Jonyari: Login successful! Welcome ${name} (Login successful! Welcome ${name})`);
+        setDebug(`Jonyari: Login successful! Welcome ${name}`);
         // Save token to localStorage
         localStorage.setItem('auth_token', data.token);
         localStorage.setItem('auth_time', Date.now().toString());
         onLoginSuccess();
       } else {
         // On login failure show only the error message (no debug info)
-        setError(data.message || 'Jonyari: Validation failed, please check the name (Validation failed, please check the name)');
+        setError(data.message || 'Jonyari: Validation failed, please check the name');
       }
     } catch (err) {
       console.error('Validation request error:', err);
-      setError('Jonyari: Error during validation, please try again (Error during validation, please try again)');
+      setError('Jonyari: Error during validation, please try again');
     } finally {
       setLoading(false);
     }
@@ -55,22 +55,22 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
 
   // Helper: show a hint for test users (debug only)
   const showHint = () => {
-    setDebug('Jonyari: Please enter a family member name to login (Please enter a name from the family tree to login)');
+    setDebug('Jonyari: Please enter a family member name to login');
   };
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8">
         <div>
-          <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">{familyFullName} Family Genealogy (Family Tree)</h2>
+          <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">{familyFullName} Family Genealogy</h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Please enter Jonyari Name to verify (Please enter name to verify)
+            Please enter Jonyari Name to verify
           </p>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
           <div className="rounded-md shadow-sm">
             <div>
-              <label htmlFor="name" className="sr-only">Jonyari Name (Name)</label>
+              <label htmlFor="name" className="sr-only">Jonyari Name</label>
               <div className="relative">
                 <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                   <UserIcon className="h-5 w-5 text-gray-400" />
@@ -81,7 +81,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
                   type="text"
                   required
                   className="appearance-none rounded-md relative block w-full pl-10 pr-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                  placeholder="Jonyari Name (Name)"
+                  placeholder="Jonyari Name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                 />
@@ -99,7 +99,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
               disabled={loading}
               className="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 disabled:bg-blue-300"
             >
-                {loading ? 'Jonyari Verifying... (Verifying...)' : 'Enter Family Genealogy (Enter Family Tree)'}
+                {loading ? 'Jonyari Verifying...' : 'Enter Family Genealogy'}
             </button>
           </div>
           
@@ -109,7 +109,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
               onClick={showHint}
               className="text-xs text-gray-500 hover:text-gray-700"
             >
-              Jonyari Need Help? (Need help?)
+              Jonyari Need Help?
             </button>
           </div>
           

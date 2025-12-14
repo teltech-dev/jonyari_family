@@ -34,7 +34,7 @@ export async function POST(request: Request) {
       
       return NextResponse.json({ 
         success: false, 
-        message: 'Jonyari: Please enter the correct name (Please enter the correct name)' 
+        message: 'Jonyari: Please enter the correct name' 
       }, { status: 401 });
     }
     
@@ -67,14 +67,14 @@ export async function POST(request: Request) {
     
     return NextResponse.json({ 
       success: false, 
-      message: 'Jonyari: Incorrect name (Incorrect name)' 
+      message: 'Jonyari: Incorrect name' 
     }, { status: 401 });
     
   } catch (error) {
     console.error('Error during validation:', error);
     return NextResponse.json({ 
       success: false, 
-      message: 'Jonyari: Validation failed, please try again (Validation failed, please try again)' 
+      message: 'Jonyari: Validation failed, please try again' 
     }, { status: 500 });
   }
 } 

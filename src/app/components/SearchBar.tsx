@@ -170,7 +170,7 @@ export default function SearchBar({ onSearch, generations }: SearchBarProps) {
                             <div className="flex items-center gap-2">
                                 <input
                                     type="number"
-                                    placeholder="Start (Start)"
+                                    placeholder="Start"
                                     className="flex-1 px-2 py-1 border border-gray-200 rounded text-sm focus:outline-none focus:ring-1 focus:ring-blue-300"
                                     value={filters.yearRange.start || ''}
                                     onChange={(e) => handleSearch(undefined, { 
@@ -180,7 +180,7 @@ export default function SearchBar({ onSearch, generations }: SearchBarProps) {
                                 <span className="text-gray-400 text-xs">-</span>
                                 <input
                                     type="number"
-                                    placeholder="End (End)"
+                                    placeholder="End"
                                     className="flex-1 px-2 py-1 border border-gray-200 rounded text-sm focus:outline-none focus:ring-1 focus:ring-blue-300"
                                     value={filters.yearRange.end || ''}
                                     onChange={(e) => handleSearch(undefined, { 

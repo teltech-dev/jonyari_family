@@ -110,7 +110,7 @@ const PersonCard = ({
                 {father && (
                     <div className="flex items-center gap-2 text-gray-600 text-sm mb-2">
                         <UserGroupIcon className="h-4 w-4 text-blue-500" />
-                            <span>Father: (Father)</span>
+                            <span>Father:</span>
                         <button 
                             onClick={(e) => {
                                 e.stopPropagation();
@@ -128,7 +128,7 @@ const PersonCard = ({
                 {sons.length > 0 && (
                     <div className="flex flex-wrap items-center gap-2 text-gray-600 text-sm mb-2">
                         <UserGroupIcon className="h-4 w-4 text-green-500" />
-                        <span>Offspring: (Children)</span>
+                        <span>Offspring:</span>
                         {sons.map((son, index) => (
                             <span key={son.id || index}>
                                 <button 
