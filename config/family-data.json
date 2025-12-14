@@ -1149,6 +1149,38 @@
           "deathYear": "unknown"
         },
         {
+          "id": "rejoice-jaguru",
+          "name": "Rejoice Jaguru",
+          "info": "Jaguru is the first wife of Julius Bongo and mother to Annet Adede, Late Pamela Poni, Emmanuel Wani, Evaline Juru, Late Gladis Yangi and Kiden Patience.",
+          "fatherId": null,
+          "birthYear": "01:01:1975",
+          "deathYear": "Active"
+        },
+        {
+          "id": "juan-julius",
+          "name": "Juan Na Bongo",
+          "info": "Juan is the second wife of Julius Bongo. The mother of Kenyi Godwill, Lupai Surprise, Wani Bongo, Poni Julius and Adede Bongo.",
+          "fatherId": null,
+          "birthYear": "01:01:1980",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "kwaje-rebecca",
+          "name": "Kwaje Rebecca",
+          "info": "Kwaje is the legitimate one and only wife of Azaria Wolyan, the mother Lodu Simya, Lupai Lawrence, Adede Rebecca, Wani Azaria and Poni Grace.",
+          "fatherId": null,
+          "birthYear": "01:05:1950",
+          "deathYear": "Active"
+        },
+        {
+          "id": "modong-soso",
+          "name": "Modong Na Soso",
+          "info": "Modong Na Soso is the one and only wife of Chaplain Soso Tongidyang, the mother of Adede Asanti, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
+          "fatherId":null,
+          "birthYear": "01:01:1985",
+          "deathYear": "Active"
+        },
+        {
           "id": "oliver-losuba-gwolo",
           "name": "Oliver Losuba (Gwolo)",
           "info": "Oliver Losuba, also called Gwolo, was a child of Morris Murye and Rebecca Kiden. No further details.",
@@ -1235,6 +1267,142 @@
           "fatherId": null,
           "birthYear": "unknown",
           "deathYear": "unknown"
+        }
+      ]
+    },
+
+    {
+      "title": "7th Known Generation",
+      "people": [
+        {
+          "id": "adede-annet",
+          "name": "Adede Annet",
+          "info": "Annet is the first born child of Bongo Julius and Rejoice Jaguru. She is married to Dilla Theophilus and they have two children together, Jason Sakor Dilla and Peggy Kongo Dilla. Annet also has a son named Moses Pitia, fathered by Jacob Kamilo.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:07:1994",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "poni-pamela",
+          "name": "Poni Pamela",
+          "info": "Pamela was the second born daughter of Bongo Julius and Rejoice Jaguru. ",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:01:1997",
+          "deathYear": ">01:01:2000"
+        },
+        {
+          "id": "emmanuel-wani",
+          "name": "Emmanuel Wani",
+          "info": "Emmanuel Wani, commonly known as Tella, is the third born and the only son of Bongo Julius and Rejoice Jaguru.",
+          "fatherId": "julius-bongo",
+          "birthYear": "09:09:1999",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "evaline-juru",
+          "name": "Evaline Juru",
+          "info": "Juru is the fourth born daughter of Bongo Julius and Rejoice Jaguru. Named by her mother after her grandmother Juru 'Nyola.",
+          "fatherId": "julius-bongo",
+          "birthYear": "14:07:2002",
+          "deathYear": "Very Healthy"
+        },
+        {
+          "id": "gladis-yangi",
+          "name": "Gladis Yangi",
+          "info": "Gladis was the fifth born daughter of Bongo Julius and Rejoice Jaguru. She unfortunately passed away at a very young age due to illness in Waliji refugee settlement.",
+          "fatherId": "julius-bongo",
+          "birthYear": "03:05:2004",
+          "deathYear": "14:08:2005"
+        },
+        {
+          "id": "kiden-patience",
+          "name": "Kiden Patience",
+          "info": "Patience is the sixth and last born daughter of Bongo Julius and Rejoice Jaguru. She was born in Mundari Civil Hospital",
+          "fatherId": "julius-bongo",
+          "birthYear": "25:02:2008",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "Kenyi-godwill",
+          "name": "Kenyi Godwill",
+          "info": "Kenyi is the first born son of Bongo Julius and Juan Julius.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:01:1999",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "lupai-surprise",
+          "name": "Lupai Surprise",
+          "info": "Surprise is the second born daughter of Bongo Julius and Juan Julius.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:01:2001",
+          "deathYear": "Alive and Healthy"
+        },
+        {
+          "id": "wani-bongo",
+          "name": "Wani Bongo",
+          "info": "Wani Bongo is the third born son of Bongo Julius and Juan Julius.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:10:2003",
+          "deathYear": "Very Healthy"
+        },
+        {
+          "id": "poni-bongo",
+          "name": "Poni Na Bongo",
+          "info": "Poni is the fourth born daughter of Bongo Julius and Juan Julius.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:10:2006",
+          "deathYear": "Very Healthy"
+        },
+        {
+          "id": "adede-bongo",
+          "name": "Adede Na Bongo",
+          "info": "Adede Na Bongo is the fifth and last born daughter of Bongo Julius and Juan Julius.",
+          "fatherId": "julius-bongo",
+          "birthYear": "01:10:2007",
+          "deathYear": "Very Healthy"
+        }
+      ]
+    },
+    {
+      "title": "8th Known Generation",
+      "people": [
+        {
+          "id": "moses-pitia",
+          "name": "Moses Pitia",
+          "info": "Moses Pitia is the first born son of Adede Annet, Fathered by Jacob Kamilo.",
+          "fatherId": null,
+          "birthYear": "27:02:2015",
+          "deathYear": "Very Healthy"
+        },
+        {
+          "id": "jason-sakor-dilla",
+          "name": "Jason Sakor Dilla",
+          "info": "Jason is the second born son of Adede Annet, Fathered by Dilla Theophilus.",
+          "fatherId": "dilla-theophilus",
+          "birthYear": "23:03:2023",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "konga-peggy-dilla",
+          "name": "Konga Peggy Dilla",
+          "info": "Konga Peggy Dilla is the third and first born daughter of Adede Annet, Fathered by Dilla Theophilus.",
+          "fatherId": "dilla-theophilus",
+          "birthYear": "23:07:2025",
+          "deathYear": "Growing Toddler"
+        }
+      ]
+    },
+    {
+      "title": "In-laws of the 7th Generation",
+      "people": [
+        {
+          "id": "dilla-theophilus",
+          "name": "Dilla Theophilus",
+          "info": "Dilla Theophilus is the husband of Adede Annet and father to Jason Sakor Dilla and Peggy Kongo Dilla.",
+          "fatherId": null,
+          "birthYear": "01:01:1990",
+          "deathYear": "Active and Healthy"
         }
       ]
     }
