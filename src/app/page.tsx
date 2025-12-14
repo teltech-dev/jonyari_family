@@ -37,7 +37,7 @@ export default function Home() {
 
   // Cache built tree structure with useMemo
   const treeData = useMemo(() => {
-    if (dataLoading || dataError || !familyData.generations.length) {
+    if (dataLoading || dataError || !familyData?.generations?.length) {
       return {
         generations: [
           {
@@ -66,7 +66,7 @@ export default function Home() {
 
   // Search effect - handle search logic with useEffect
   useEffect(() => {
-    if (!dataLoading && !dataError && familyData.generations.length) {
+    if (!dataLoading && !dataError && familyData?.generations?.length) {
       if (searchTerm || searchFilters.selectedGenerations.length > 0 || 
           searchFilters.yearRange.start || searchFilters.yearRange.end) {
         const results = searchFamilyData(familyData, searchTerm, searchFilters);
@@ -210,7 +210,7 @@ export default function Home() {
           <div className="flex justify-end mb-4">
             <SearchBar 
               onSearch={handleSearch}
-              generations={familyData.generations.map(g => g.title)}
+              generations={familyData.generations?.map(g => g.title) ?? []}
             />
           </div>
           

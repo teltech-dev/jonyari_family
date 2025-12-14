@@ -14,6 +14,7 @@ interface FamilyTreeProps {
 // Create a map for quick lookup of people by id
 const createPersonMap = (data: FamilyData) => {
     const map = new Map<string, Person>();
+    if (!data || !Array.isArray(data.generations)) return map;
     data.generations.forEach(generation => {
         generation.people.forEach(person => {
             if (person.id) {
@@ -27,6 +28,7 @@ const createPersonMap = (data: FamilyData) => {
 // Create a map to find all sons/children for a person
 const createSonsMap = (data: FamilyData) => {
     const map = new Map<string, Person[]>();
+    if (!data || !Array.isArray(data.generations)) return map;
     
     // Initialize children arrays for each person
     data.generations.forEach(generation => {
@@ -233,7 +235,7 @@ export default function FamilyTree({ familyData, searchTerm, searchInInfo }: Fam
     
     return (
         <div className="max-w-7xl mx-auto px-4">
-            {familyData.generations.map((generation, index) => (
+            {(familyData.generations ?? []).map((generation, index) => (
                 <Generation
                     key={index}
                     title={generation.title}

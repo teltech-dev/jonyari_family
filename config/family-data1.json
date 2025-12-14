@@ -1,0 +1,297 @@
+{
+  "generations": [
+    {
+      "title": "First Generation (Grandparents - Father Side)",
+      "people": [
+        {
+          "id": "murye-morris",
+          "name": "Murye Morris",
+          "birthYear": "01-01-1912",
+          "deathYear": "01-01-1982",
+          "info": "Grandfather of the Jonyari family, patriarch of the father side.",
+          "fatherId": null,
+          "motherId": null
+        },
+        {
+          "id": "rebecca-kiden",
+          "name": "Rebecca Kiden",
+          "birthYear": "(DoB: 01-01-1918)",
+          "deathYear": "(DoD: 01-01-2000)",
+          "info": "Grandmother of the Jonyari family, matriarch of the father side, wife of Murye Morris.",
+          "fatherId": null,
+          "motherId": null
+        },
+        {
+          "id": "diko-murye",
+          "name": "Diko Murye",
+          "birthYear": "01-01-1920",
+          "info": "Grandmother of the Jonyari family, matriarch of the father side, wife of Murye Morris.",
+          "fatherId": null,
+          "motherId": null
+        }
+      ]
+    },
+    {
+      "title": "Second Generation (Children of Murye Morris and Rebecca Kiden)",
+      "people": [
+        {
+          "id": "azaria-wolyan",
+          "name": "Azaria Wolyan",
+          "birthYear": "01-01-1945",
+          "info": "Firstborn son of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "soso-chaplain",
+          "name": "Soso Chaplain",
+          "birthYear": "01-01-1951",
+          "info": "Son of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "simon-wolyan",
+          "name": "Simon Wolyan",
+          "birthYear": "10-5-1955",
+          "info": "Son of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "cecilia-yine",
+          "name": "Cecilia Yine",
+          "birthYear": "01-01-1958",
+          "info": "Daughter of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "joseph-loguli",
+          "name": "Joseph Loguli",
+          "birthYear": "01-01-1960",
+          "info": "Son of Murye Morris and Rebecca Kiden, married, father of Adede Loguli and Lupai Loguli.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "poni-rejoice",
+          "name": "Poni Rejoice",
+          "birthYear": "01-01-1962",
+          "info": "Daughter of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "bongo-julius",
+          "avatar": "/images/bongo-julius.jpg",
+          "name": "Bongo Julius",
+          "birthYear": "01-10-1965",
+          "info": "Son of Murye Morris and Rebecca Kiden, married twice, father of multiple children.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        },
+        {
+          "id": "oliva-losuba",
+          "name": "Oliva Losuba",
+          "birthYear": "01-10-1968",
+          "info": "Son of Murye Morris and Rebecca Kiden.",
+          "fatherId": "murye-morris",
+          "motherId": "rebecca-kiden"
+        }
+      ]
+    },
+    {
+      "title": "Third Generation (Wives and Spouses)",
+      "people": [
+        {
+          "id": "rejoice-jaguru",
+          "name": "Rejoice Jaguru",
+          "birthYear": "12-8-1976",
+          "info": "First wife of Bongo Julius, mother of Adede Annet, Poni Jaguru, Emmanuel Wani, Evaline Juru, Yangi Sain, Kiden Patience.",
+          "fatherId": null,
+          "motherId": null
+        },
+        {
+          "id": "juan-adjumani",
+          "name": "Juan Adjumani",
+          "birthYear": "5-3-1978",
+          "info": "Second wife of Bongo Julius, mother of Kenyi Godwin, Lupai Surprise, Wani Bongo, Adede Julius, Poni Bongo.",
+          "fatherId": null,
+          "motherId": null
+        },
+        {
+          "id": "joseph-wife",
+          "name": "Arusu Loguli",
+          "birthYear": "10-5-1975",
+          "info": "Wife of Joseph Loguli, mother of Adede Loguli and Lupai Loguli.",
+          "fatherId": null,
+          "motherId": null
+        }
+      ]
+    },
+    {
+      "title": "Fourth Generation (Children of Bongo Julius & Rejoice Jaguru)",
+      "people": [
+        {
+          "id": "adede-annet",
+          "name": "Adede Annet",
+          "birthYear": "01-04-1994",
+          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Mother of Moses Pitia, Jason Sakor, and Peggy Konga.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "poni-jaguru",
+          "name": "Poni Jaguru",
+          "birthYear": "01-01-1997",
+          "deathYear": "01-01-2000",
+          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Deceased.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "emmanuel-wani",
+          "name": "Emmanuel Wani",
+          "birthYear": "09-09-1999",
+          "info": "Son of Bongo Julius and Rejoice Jaguru. Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "evaline-juru",
+          "name": "Evaline Juru",
+          "birthYear": "14-07-2002",
+          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "yangi-sain",
+          "name": "Yangi Sain",
+          "birthYear": "01-01-2004",
+          "deathYear": "01-01-2005",
+          "info": "Son of Bongo Julius and Rejoice Jaguru. Deceased.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        },
+        {
+          "id": "kiden-patience",
+          "name": "Kiden Patience",
+          "birthYear": "01-02-2008",
+          "info": "Son of Bongo Julius and Rejoice Jaguru. Alive.",
+          "fatherId": "bongo-julius",
+          "motherId": "rejoice-jaguru"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Generation (Children of Bongo Julius & Juan Adjumani)",
+      "people": [
+        {
+          "id": "kenyi-godwin",
+          "name": "Kenyi Godwin",
+          "birthYear": "01-01-1999",
+          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "lupai-surprise",
+          "name": "Lupai Surprise",
+          "birthYear": 2002,
+          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "wani-bongo",
+          "name": "Wani Bongo",
+          "birthYear": 2004,
+          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "adede-julius",
+          "name": "Adede Julius",
+          "birthYear": 2006,
+          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        },
+        {
+          "id": "poni-bongo",
+          "name": "Poni Bongo",
+          "birthYear": 2007,
+          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
+          "fatherId": "bongo-julius",
+          "motherId": "juan-adjumani"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Generation (Children of Joseph Loguli)",
+      "people": [
+        {
+          "id": "adede-loguli",
+          "name": "Adede Loguli",
+          "birthYear": 2002,
+          "info": "Daughter of Joseph Loguli and Arusu Loguli. Single.",
+          "fatherId": "joseph-loguli",
+          "motherId": "joseph-wife"
+        },
+        {
+          "id": "lupai-loguli",
+          "name": "Lupai Loguli",
+          "birthYear": 2004,
+          "info": "Son of Joseph Loguli and Arusu Loguli. Single.",
+          "fatherId": "joseph-loguli",
+          "motherId": "joseph-wife"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Generation (Children of Adede Annet)",
+      "people": [
+        {
+          "id": "moses-pitia",
+          "name": "Moses Pitia",
+          "birthYear": "15-02-2015",
+          "info": "Son of Adede Annet. Alive.",
+          "fatherId": "theophilus-dilla",
+          "motherId": "adede-annet"
+        },
+        {
+          "id": "jason-sakor",
+          "name": "Jason Sakor",
+          "birthYear": "23-07-2023",
+          "info": "Son of Adede Annet. Alive.",
+          "fatherId": "theophilus-dilla",
+          "motherId": "adede-annet"
+        },
+        {
+          "id": "peggy-konga",
+          "name": "Peggy Konga",
+          "birthYear": 2025,
+          "info": "Daughter of Adede Annet. Alive.",
+          "fatherId": "theophilus-dilla",
+          "motherId": "adede-annet"
+        }
+      ]
+    },
+    {
+      "title": "Fourth Generation (In-laws / Spouses)",
+      "people": [
+        {
+          "id": "theophilus-dilla",
+          "name": "Theophilus Dilla",
+          "birthYear": "01-01-1990",
+          "info": "Husband of Adede Annet, father of Moses Pitia, Jason Sakor, and Peggy Konga.",
+          "fatherId": null,
+          "motherId": null
+        }
+      ]
+    }
+  ]
+}

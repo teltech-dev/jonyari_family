@@ -90,7 +90,18 @@ export function getFamilyFullName(): string {
 export async function getFamilyDataOnServer(): Promise<FamilyData> {
   if (familyDataCache) return familyDataCache;
   
-  const data = await loadConfigOnServer<FamilyData>('family-data.json', defaultFamilyData);
+  const raw = await loadConfigOnServer<any>('family-data.json', defaultFamilyData);
+
+  // Normalize older file format that used `generation` instead of `generations`
+  let data: FamilyData = raw;
+  if (!Array.isArray(raw.generations) && Array.isArray(raw.generation)) {
+    data = { generations: raw.generation };
+  }
+
+  if (!Array.isArray(data.generations)) {
+    data = { generations: [] };
+  }
+
   familyDataCache = data;
   return data;
 }

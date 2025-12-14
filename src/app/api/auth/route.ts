@@ -41,11 +41,13 @@ export async function POST(request: Request) {
     // In 'all' mode, allow any family member present in the data to login
     const familyData = await getFamilyDataOnServer();
     const allNames = new Set<string>();
-    familyData.generations.forEach(generation => {
-      generation.people.forEach(person => {
-        allNames.add(person.name);
+    if (familyData && Array.isArray(familyData.generations)) {
+      familyData.generations.forEach(generation => {
+        generation.people.forEach(person => {
+          allNames.add(person.name);
+        });
       });
-    });
+    }
     
     const isValid = allNames.has(name);
     

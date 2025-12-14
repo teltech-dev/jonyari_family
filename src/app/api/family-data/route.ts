@@ -16,7 +16,19 @@ export async function GET() {
 
     // Read and parse the file
     const fileContent = fs.readFileSync(configPath, 'utf8');
-    const data = JSON.parse(fileContent);
+    const parsed = JSON.parse(fileContent);
+
+    // Normalize older data format that uses `generation` instead of `generations`
+    let data: any = parsed;
+    if (!Array.isArray(parsed.generations) && Array.isArray(parsed.generation)) {
+      data = { generations: parsed.generation };
+    }
+
+    // Ensure the response has a `generations` array to match the client expectations
+    if (!Array.isArray(data.generations)) {
+      data = { generations: [] };
+    }
+
     return NextResponse.json(data);
   } catch (error) {
     console.error('Error loading family data:', error);

@@ -135,6 +135,10 @@ function matchesPerson(person: Person, searchTerm: string, filters: SearchFilter
 // Main search function
 export function searchFamilyData(familyData: FamilyData, searchTerm: string, filters: SearchFilters): SearchResult[] {
     const results: SearchResult[] = [];
+
+    if (!familyData || !Array.isArray(familyData.generations) || familyData.generations.length === 0) {
+        return results;
+    }
     
     familyData.generations.forEach(generation => {
         // If generation filters are specified, skip non-selected generations

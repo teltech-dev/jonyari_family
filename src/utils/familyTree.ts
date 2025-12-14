@@ -3,7 +3,7 @@ import { FamilyData, Person } from '@/types/family';
 // Core algorithm to build family tree structure
 // Jonyari note: preserves parent-child relationships using fatherId
 export function buildFamilyTree(familyData: FamilyData): FamilyData {
-  if (!familyData.generations.length) {
+  if (!familyData || !Array.isArray(familyData.generations) || familyData.generations.length === 0) {
     return {
       generations: [
         {
@@ -84,6 +84,10 @@ export function buildSearchIndex(familyData: FamilyData): SearchIndex {
   const nameIndex = new Map<string, Person[]>();
   const infoIndex = new Map<string, Person[]>();
   const yearIndex = new Map<number, Person[]>();
+
+  if (!familyData || !Array.isArray(familyData.generations) || familyData.generations.length === 0) {
+    return { nameIndex, infoIndex, yearIndex };
+  }
 
   familyData.generations.forEach(generation => {
     generation.people.forEach(person => {

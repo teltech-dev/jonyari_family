@@ -1,294 +1,1240 @@
 {
   "generations": [
     {
-      "title": "First Generation (Grandparents - Father Side)",
+      "title": "1st Known Generation",
       "people": [
         {
-          "id": "murye-morris",
-          "name": "Murye Morris",
-          "birthYear": "01-01-1912",
-          "deathYear": "01-01-1982",
-          "info": "Grandfather of the Jonyari family, patriarch of the father side.",
+          "id": "wori",
+          "name": "Wori",
+          "info": "Wori was the elder brother among the three founding brothers of the Malari sub-clan. He grew up with his brothers Dabe and an unnamed younger brother. After the younger brother's death, Wori suspected the widow Landu of complicity and demanded investigation, leading to consultations with witch doctors. His actions intensified family conflicts, including attempts to execute Landu and ongoing animosity with Dabe. Wori married an unnamed wife who later died, allegedly due to witchcraft from Dabe's side. His lineage remained sketchy in oral history, but descendants include Rabuk Kabur Lobiji and grandchildren. Wori's pursuit of 'justice' through unproductive methods like witch doctors contributed to the split of the Malari clan into mainstream Malari and Jonyari.",
           "fatherId": null,
-          "motherId": null
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "dabe",
+          "name": "Dabe",
+          "info": "Dabe was the middle brother of the three founding brothers of the Malari sub-clan. He opposed Wori's unfounded suspicions against Landu, the widow of their younger brother, and challenged the clan's verdict to execute her. Dabe secretly inherited Landu and bore children with her, including Koboji, Lopia, and an unnamed son. He married a legitimate unnamed wife who bore only daughters but left jealously when Landu gave birth to a son. Dabe's resentment against the clan's actions led him to abort the assassination of Landu. Conflicts with Wori escalated through reciprocal witchcraft, culminating in Wori's wife's death and Dabe's assassination by her relatives. Shot with an arrow while urinating outside, Dabe fought back, killing three attackers, but died from septic injury. His last words instructed Landu to flee to Liwolo with their baby Koboji and a specific cow named Songo for sustenance. Biologically the father of Jonyari descendants, but culturally considered the uncle as the children belonged to his late younger brother.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "younger-brother-name-unknown",
+          "name": "Younger Brother (Name Unknown)",
+          "info": "The youngest of the three brothers who formed the Malari sub-clan. He married Landu from Liwolo but died under incomprehensible circumstances, possibly without children, as there are no references to his descendants. His death sparked suspicions from Wori, leading to clan conflicts. Culturally, he is considered the father of the children borne by Landu after inheritance by Dabe, including Koboji and his brothers.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "landu",
+          "name": "Landu",
+          "info": "Landu was from Liwolo and the wife of the unnamed younger brother. After his death, she was accused by Wori of complicity and nearly executed based on a witch doctor's chicken ritual pointing to her. Saved by Dabe, who inherited her, she bore Koboji, Lopia, and an unnamed son. Following Dabe's death, she fled to her family in Liwolo with baby Koboji and the cow Songo, as per Dabe's instructions. She fulfilled mourning obligations and raised Koboji there. Landu is the ancestress of all Jonyari descendants, negating derogatory terms like 'inherited rutat' within the clan.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-wife-of-dabe",
+          "name": "Unnamed Wife of Dabe",
+          "info": "The legitimate wife of Dabe, name unknown. She bore only baby girls and became jealous when Dabe inherited Landu and bore a son. She left with her daughters to her family, and their whereabouts remain unknown to date. No further accounts of her or her descendants.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-wife-of-wori",
+          "name": "Unnamed Wife of Wori",
+          "info": "The wife of Wori, name unknown. She died, allegedly due to witchcraft from Dabe's side in retaliation to Wori's actions. Her death outraged her relatives, leading to Dabe's assassination. No further details on her or immediate children, though Wori's lineage continues through descendants like Rabuk Kabur Lobiji.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "2nd Known Generation",
+      "people": [
+        {
+          "id": "koboji",
+          "name": "Koboji",
+          "info": "Koboji was the son of Dabe and his inherited wife Landu, culturally the son of the unnamed younger brother. As a baby, he fled with Landu to Liwolo after Dabe's death, raised by uncles there. He received a piece of land named Yibur, traditionally belonging to Jonyari grandchildren. Koboji married Likiya from Jingoro-Liwolo and fathered Moju, Lo’du, and Tongidyang. He defined his own identity by forming the Jonyari sub-clan, splintering from Malari. Second greatest grandparent in Jonyari hierarchy. His exile and potential return raise cultural questions about reconciliations with Wori's descendants.",
+          "fatherId": "younger-brother-name-unknown",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lopia",
+          "name": "Lopia",
+          "info": "Lopia was a son of Dabe and Landu, culturally belonging to the unnamed younger brother. His history remains bleak with no further accounts about him or his descendants.",
+          "fatherId": "younger-brother-name-unknown",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-son-of-landu",
+          "name": "Unnamed Son of Landu",
+          "info": "An unnamed son of Dabe and Landu, culturally belonging to the unnamed younger brother. His history remains bleak with no further accounts about him or his descendants.",
+          "fatherId": "younger-brother-name-unknown",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "likiya",
+          "name": "Likiya",
+          "info": "Likiya was from the clan of Jingoro-Liwolo and the wife of Koboji. She gave birth to Moju, Lo’du, and Tongidyang.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "rabuk-kabur-lobiji",
+          "name": "Rabuk Kabur Lobiji",
+          "info": "Rabuk Kabur Lobiji is a continued descendant of Wori's lineage. The oral history of Wori's family is scarce, but Rabuk and his grandchildren represent this line of the Malari clan.",
+          "fatherId": "wori",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "3rd Known Generation",
+      "people": [
+        {
+          "id": "moju",
+          "name": "Moju",
+          "info": "Moju was a son of Koboji and Likiya. He married an unnamed wife and fathered Landu (also known as Congo), Poni, and Joputo.",
+          "fatherId": "koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lo-du",
+          "name": "Lo’du",
+          "info": "Lo’du was a son of Koboji and Likiya. He married Muggo from the clan of Saburi and fathered an unnamed baby boy before dying young. Muggo was then inherited by Wori Kau (a blacksmith, not blood-related), producing Lutan, who is culturally Jonyari via bride wealth.",
+          "fatherId": "koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "tongidyang",
+          "name": "Tongidyang",
+          "info": "Tongidyang was a son of Koboji and Likiya. He married Suku from the clan of Korsak and fathered Dabe (Jr), Amunuki, and Lupai (Lubadu). The family experienced persistent deaths, leaving Lupai as the sole survivor, who was repatriated to Korsak uncles. No accounts about their sisters.",
+          "fatherId": "koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-wife-of-moju",
+          "name": "Unnamed Wife of Moju",
+          "info": "The wife of Moju, name unknown. She gave birth to Landu (Congo), Poni, and Joputo.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "muggo",
+          "name": "Muggo",
+          "info": "Muggo was from the clan of Saburi and wife of Lo’du. She gave birth to an unnamed baby boy with Lo’du. After Lo’du's death, she was inherited by Wori Kau and gave birth to Lutan.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "suku",
+          "name": "Suku",
+          "info": "Suku was from the clan of Korsak and wife of Tongidyang. She gave birth to Dabe (Jr), Amunuki, and Lupai.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "wori-kau",
+          "name": "Wori Kau",
+          "info": "Wori Kau was a professional blacksmith (Tumunit) for the Jonyari, not blood-related. He inherited Muggo after Lo’du's death and fathered Lutan. The generation from this inheritance is culturally Jonyari due to bride wealth.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "4th Known Generation",
+      "people": [
+        {
+          "id": "landu-congo",
+          "name": "Landu (Congo)",
+          "info": "Landu, also known as Congo, was a child of Moju and his unnamed wife. Gave birth to Yangi, Giye, Likiya, and Koboji (who died young).",
+          "fatherId": "moju",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "poni-of-moju",
+          "name": "Poni (of Moju)",
+          "info": "Poni was a child of Moju and his unnamed wife. Nothing known about Poni's grandchildren.",
+          "fatherId": "moju",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "joputo",
+          "name": "Joputo",
+          "info": "Joputo was a child of Moju and his unnamed wife. Gave birth to Jokudu, Lodiong, and Likiya.",
+          "fatherId": "moju",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-baby-boy-of-lo-du",
+          "name": "Unnamed Baby Boy of Lo’du",
+          "info": "The unnamed baby boy of Lo’du and Muggo. History unknown.",
+          "fatherId": "lo-du",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lutan",
+          "name": "Lutan",
+          "info": "Lutan was born to Muggo and Wori Kau after inheritance. Culturally Jonyari via bride wealth. Married Ijang and gave birth to Lupe and Anna Kiden. Also inherited an unnamed wife from elsewhere, mother of Roba Lokuli.",
+          "fatherId": "wori-kau",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "dabe-jr",
+          "name": "Dabe (Jr)",
+          "info": "Dabe Jr was a son of Tongidyang and Suku. Married Doru from Romoggi-Liwolo and gave birth to Poni Na Dabe and Modi (died young). After his death, Lupai inherited Doru and bore Abrama Mogga (culturally Dabe's). Also married Giye from Liekor-Liwolo and gave birth to Nikademo Logbong and Priscilla Baye (mother of Bismarck Bungit), culturally his via bride wealth.",
+          "fatherId": "tongidyang",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "amunuki",
+          "name": "Amunuki",
+          "info": "Amunuki was a son of Tongidyang and Suku. Engaged to Gire from Leikor-Liwolo, but died before wedding due to a taboo (howling during his marriage ceremony and mother-in-law's response). Bride wealth was paid, so Gire was considered his wife and inherited by Lupai. Death inconceivable and mind-juggling. Ancestor to Ebele Kitenge, Petero Koboji, Muja, Sarah Leong, and Modong.",
+          "fatherId": "tongidyang",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lupai-lubadu-moron",
+          "name": "Lupai (Lubadu or Moron)",
+          "info": "Lupai, originally named Lubadu and nicknamed 'the rejected one' for unknown reasons, was the son of Tongidyang and Suku. Sole survivor of family misfortunes, repatriated to Korsak uncles as a mature married man with household. Inherited wives from brothers: Doru (bore Abrama Mogga), Giye (from Dabe Jr), and Gire (from Amunuki, bore Ebele Kitenge etc.). Married legitimate wife Raele Adede and bore Wani Bungu, Purumena Tutuan, Rebecca Juan, Morris Murye, and Elisabeta Yari. Ranked fourth in known grandparents. Bailed out from Korsak on March 3, 2012, to resolve social traits and misfortunes. Profile highlights exile due to family deaths and cultural practices.",
+          "fatherId": "tongidyang",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "ijang",
+          "name": "Ijang",
+          "info": "Ijang was the wife of Lutan. Gave birth to Lupe and Anna Kiden.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "unnamed-mother-of-roba-lokuli",
+          "name": "Unnamed Mother of Roba Lokuli",
+          "info": "Inherited by Lutan from elsewhere. Gave birth to Roba Lokuli.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "doru",
+          "name": "Doru",
+          "info": "Doru was from Romoggi-Liwolo and first wife of Dabe Jr. Gave birth to Poni Na Dabe and Modi (died young). Inherited by Lupai after Dabe's death, bore Abrama Mogga (culturally Dabe's).",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "giye-wife-of-dabe-jr",
+          "name": "Giye (Wife of Dabe Jr)",
+          "info": "Giye was from Liekor-Liwolo and second wife of Dabe Jr. Gave birth to Nikademo Logbong and Priscilla Baye (mother of Bismarck Bungit). Children culturally legitimate to Dabe.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "gire",
+          "name": "Gire",
+          "info": "Gire was the daughter of Buju from Leikor-Liwolo, engaged to Amunuki. Beautiful light-skinned lady admired by many. Eloped by a colonial master (Jaalia) after Amunuki's death but recovered diplomatically. Considered legitimate wife of Jonyari due to paid bride wealth. Developed wounds, suspected witchcraft, handed to Lupai who inherited her. Gave birth to Ebele Kitenge, Petero Koboji, Muja, Sarah Leong, and Modong (culturally Amunuki's).",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "raele-adede-wori-kajanyiri",
+          "name": "Raele Adede (Wori Kajanyiri)",
+          "info": "Raele Adede was from Kagiri in Bori-Kangapu ii Payam and the first legitimate wife of Lupai. Dispatched to Lupai amid concerns over his inheritances. Gave birth to Wani Bungu, Purumena Tutuan, Rebecca Juan, Morris Murye, and Elisabeta Yari. Traditionally the primary wife, with inherited wives referenced to their late husbands.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        }
+      ]
+    },
+    {
+      "title": "5th Known Generation",
+      "people": [
+        {
+          "id": "yangi",
+          "name": "Yangi",
+          "info": "Yangi was a child of Landu (Congo). No further details.",
+          "fatherId": "landu-congo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "giye-of-congo",
+          "name": "Giye (of Congo)",
+          "info": "Giye was a child of Landu (Congo). No further details.",
+          "fatherId": "landu-congo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "likiya-of-congo",
+          "name": "Likiya (of Congo)",
+          "info": "Likiya was a child of Landu (Congo). No further details.",
+          "fatherId": "landu-congo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "koboji-of-congo",
+          "name": "Koboji (of Congo)",
+          "info": "Koboji was a child of Landu (Congo). Died young.",
+          "fatherId": "landu-congo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "jokudu",
+          "name": "Jokudu",
+          "info": "Jokudu was a child of Joputo. No further details.",
+          "fatherId": "joputo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lodiong-of-joputo",
+          "name": "Lodiong (of Joputo)",
+          "info": "Lodiong was a child of Joputo. No further details.",
+          "fatherId": "joputo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "likiya-of-joputo",
+          "name": "Likiya (of Joputo)",
+          "info": "Likiya was a child of Joputo. No further details.",
+          "fatherId": "joputo",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lupe",
+          "name": "Lupe",
+          "info": "Lupe was a child of Lutan and Ijang. No further details.",
+          "fatherId": "lutan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "anna-kiden",
+          "name": "Anna Kiden",
+          "info": "Anna Kiden was a child of Lutan and Ijang. No further details.",
+          "fatherId": "lutan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "roba-lokuli",
+          "name": "Roba Lokuli",
+          "info": "Roba Lokuli was a child of Lutan and his inherited unnamed wife. Married Marata Wori Gudi (daughter of Gudi) and gave birth to Mojule and others.",
+          "fatherId": "lutan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "poni-na-dabe",
+          "name": "Poni Na Dabe",
+          "info": "Poni, popularly known as Poni Na Dabe, was a child of Dabe Jr and Doru. No further details.",
+          "fatherId": "dabe-jr",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "modi",
+          "name": "Modi",
+          "info": "Modi was a child of Dabe Jr and Doru. Died young.",
+          "fatherId": "dabe-jr",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "abrama-mogga",
+          "name": "Abrama Mogga",
+          "info": "Abrama Mogga was born to Doru and Lupai after inheritance, culturally child of Dabe Jr. Ancestor to Yisaka Piso, Lea Suku, Timoteo Tongidyang, Ryembe, Gordon Yama Lo’du, Grace Talata, Joseph Yanga, and Tola from first wife Elisabeta Ropi; Cyrus Tongidyang (Khamis Laila), Suku (Zande), Joyce Kiden (Yanya), and Henry Jenge from second wife Grace Juan; Richard Taban (Tongidyang), Sylvia Suku (Dudu), and Monday from third wife Pilista Juru (separated by Anyanya war, other children out of wedlock - cultural status questionable).",
+          "fatherId": "dabe-jr",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "nikademo-logbong",
+          "name": "Nikademo Logbong",
+          "info": "Nikademo Logbong was a child of Dabe Jr and Giye. Culturally legitimate to Dabe. No further details.",
+          "fatherId": "dabe-jr",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "priscilla-baye",
+          "name": "Priscilla Baye",
+          "info": "Priscilla Baye was a child of Dabe Jr and Giye. Mother of Bismarck Bungit. Culturally legitimate to Dabe.",
+          "fatherId": "dabe-jr",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "ebele-kitenge-doko-gubaji",
+          "name": "Ebele Kitenge (Doko or Gubaji)",
+          "info": "Ebele Kitenge, sometimes called Doko or Gubaji, was born to Gire and Lupai, culturally child of Amunuki. Father of Gamba, Stanley Roba, Nicolas Buju, Suku, Ijang, Kabudu, and Tongidyang (Dwoki) from first wife Sokale; Taban Abel (Yamba), Suku (Wiling-wiling), Makka, Yata, Kenyi John, and Lo’du Bismarck from second wife Yanya from Wandi clan.",
+          "fatherId": "amunuki",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "petero-koboji",
+          "name": "Petero Koboji",
+          "info": "Petero Koboji was born to Gire and Lupai, culturally child of Amunuki. Father of Sokiri, Joselin Juan (Wori Giye), Pita Na Petero, Ko’do, Buju, Tongidyang, and Abate.",
+          "fatherId": "amunuki",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "muja",
+          "name": "Muja",
+          "info": "Muja was born to Gire and Lupai, culturally child of Amunuki. No further details.",
+          "fatherId": "amunuki",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "sarah-leong",
+          "name": "Sarah Leong",
+          "info": "Sarah Leong was born to Gire and Lupai, culturally child of Amunuki. No further details.",
+          "fatherId": "amunuki",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "modong-of-amunuki",
+          "name": "Modong (of Amunuki)",
+          "info": "Modong was born to Gire and Lupai, culturally child of Amunuki. No further details.",
+          "fatherId": "amunuki",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "wani-bungu",
+          "name": "Wani (Bungu)",
+          "info": "Wani, commonly known as Bungu, was a child of Lupai and Raele Adede. Married Tabita Yobu and gave birth to Wilson Lodiong, Sartiele Yama Lo’du, Charity Suku, and Kiryembe; from second wife Kaku gave birth to William Wolyan, Escesles Nnyarsuk, and Joy Yine. There were others born out of wedlock.",
+          "fatherId": "lupai-lubadu-moron",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "purumena-logborong-tutuan",
+          "name": "Purumena Logborong (Tutuan)",
+          "info": "Purumena, also called Tutuan, was a child of Lupai and Raele Adede. Descendants include Gordon Sula, Maika Duke, Charles Lisi, Milton Wani, Jaguru, and Yine from first wife Maria Woro of Wandi; Bulson Bulli, Simon Ladu, Modong, Guo, and Augustino Wolyan from second wife Juan of Pojulu; Taban Nelson (Tongidyang), Suku, Dudu, Subek Nandera, Emmanuel Lo’du, Bongiri, Doru, and Muggo from third wife Poni Na Kei. Others born out of wedlock.",
+          "fatherId": "lupai-lubadu-moron",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "rebecca-juan",
+          "name": "Rebecca Juan",
+          "info": "Rebecca Juan was a child of Lupai and Raele Adede. No further details.",
+          "fatherId": "lupai-lubadu-moron",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "morris-murye",
+          "name": "Morris Murye",
+          "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina ‘Diko of Wandi.",
+          "fatherId": "lupai-lubadu-moron",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "elisabeta-yari",
+          "name": "Elisabeta Yari",
+          "info": "Elisabeta Yari was a child of Lupai and Raele Adede. Denied education by brothers, leading to illusions interpreted as potential curse on girl child education in the clan, but forgiven and resolved during bailout occasion.",
+          "fatherId": "lupai-lubadu-moron",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "marata-wori-gudi",
+          "name": "Marata Wori Gudi",
+          "info": "Marata was the daughter of Gudi and wife of Roba Lokuli. Gave birth to Mojule and others.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "elisabeta-ropi",
+          "name": "Elisabeta Ropi",
+          "info": "Elisabeta Ropi was the first legitimate wife of Abrama Mogga. Gave birth to Yisaka Piso, Lea Suku, Timoteo Tongidyang, Ryembe, Gordon Yama Lo’du, Grace Talata, Joseph Yanga, and Tola.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "grace-juan",
+          "name": "Grace Juan",
+          "info": "Grace Juan was the daughter of Boro from Dongoro and second legitimate wife of Abrama Mogga. Gave birth to Cyrus Tongidyang (Khamis Laila), Suku (Zande), Joyce Kiden (Yanya), and Henry Jenge.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "pilista-juru",
+          "name": "Pilista Juru",
+          "info": "Pilista Juru was the third legitimate wife of Abrama Mogga. Separated by Anyanya war, gave birth to Richard Taban (Tongidyang), Sylvia Suku (Dudu), and Monday; bore other children out of wedlock, cultural status as Jonyari questionable.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "sokale",
+          "name": "Sokale",
+          "info": "Sokale was the first legitimate wife of Ebele Kitenge. Gave birth to Gamba, Stanley Roba, Nicolas Buju, Suku, Ijang, Kabudu, and Tongidyang (Dwoki).",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "yanya-of-wandi",
+          "name": "Yanya (of Wandi)",
+          "info": "Yanya was from the Wandi clan and second legitimate wife of Ebele Kitenge. Gave birth to Taban Abel (Yamba), Suku (Wiling-wiling), Makka, Yata, Kenyi John, and Lo’du Bismarck.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "tabita-yobu",
+          "name": "Tabita Yobu",
+          "info": "Tabita Yobu was the first legitimate wife of Wani Bungu. Gave birth to Wilson Lodiong, Sartiele Yama Lo’du, Charity Suku, and Kiryembe. Involved in family concerns, including a resolved incident with Lena regarding pension entitlements.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "kaku",
+          "name": "Kaku",
+          "info": "Kaku was the second legitimate wife of Wani Bungu. Gave birth to William Wolyan, Escesles Nnyarsuk, and Joy Yine.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "maria-woro",
+          "name": "Maria Woro",
+          "info": "Maria Woro was from the Wandi clan and first legitimate wife of Purumena Tutuan. Gave birth to Gordon Sula, Maika Duke, Charles Lisi, Milton Wani, Jaguru, and Yine.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "juan-of-pojulu",
+          "name": "Juan (of Pojulu)",
+          "info": "Juan was from the Pojulu clan of Gaderu and second legitimate wife of Purumena Tutuan. Gave birth to Bulson Bulli, Simon Ladu, Modong, Guo, and Augustino Wolyan.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "poni-na-kei",
+          "name": "Poni Na Kei",
+          "info": "Poni Na Kei was the daughter of Kei and third legitimate wife of Purumena Tutuan. Gave birth to Taban Nelson (Tongidyang), Suku, Dudu, Subek Nandera, Emmanuel Lo’du, Bongiri, Doru, and Muggo.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
           "id": "rebecca-kiden",
           "name": "Rebecca Kiden",
-          "birthYear": "(DoB: 01-01-1918)",
-          "deathYear": "(DoD: 01-01-2000)",
-          "info": "Grandmother of the Jonyari family, matriarch of the father side, wife of Murye Morris.",
+          "info": "Rebecca Kiden was the daughter of WaniKonyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo).",
           "fatherId": null,
-          "motherId": null
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "diko-murye",
-          "name": "Diko Murye",
-          "birthYear": "01-01-1920",
-          "info": "Grandmother of the Jonyari family, matriarch of the father side, wife of Murye Morris.",
+          "id": "christina-diko",
+          "name": "Christina ‘Diko",
+          "info": "Christina ‘Diko was from the Wandi clan and second legitimate wife of Morris Murye. Gave birth to Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo.",
           "fatherId": null,
-          "motherId": null
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         }
       ]
     },
     {
-      "title": "Second Generation (Children of Murye Morris and Rebecca Kiden)",
+      "title": "6th Known Generation",
       "people": [
+        {
+          "id": "mojule",
+          "name": "Mojule",
+          "info": "Mojule was a child of Roba Lokuli and Marata Wori Gudi. Others unknown.",
+          "fatherId": "roba-lokuli",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "yisaka-piso",
+          "name": "Yisaka Piso",
+          "info": "Yisaka Piso was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lea-suku",
+          "name": "Lea Suku",
+          "info": "Lea Suku was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "timoteo-tongidyang",
+          "name": "Timoteo Tongidyang",
+          "info": "Timoteo Tongidyang was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "ryembe",
+          "name": "Ryembe",
+          "info": "Ryembe was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "gordon-yama-lo-du",
+          "name": "Gordon Yama Lo’du",
+          "info": "Gordon Yama Lo’du was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "grace-talata",
+          "name": "Grace Talata",
+          "info": "Grace Talata was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "joseph-yanga",
+          "name": "Joseph Yanga",
+          "info": "Joseph Yanga was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "tola",
+          "name": "Tola",
+          "info": "Tola was a child of Abrama Mogga and Elisabeta Ropi. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "cyrus-tongidyang-khamis-laila",
+          "name": "Cyrus Tongidyang (Khamis Laila)",
+          "info": "Cyrus Tongidyang, sometimes called Khamis Laila, was a child of Abrama Mogga and Grace Juan. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "suku-zande",
+          "name": "Suku (Zande)",
+          "info": "Suku, also called Zande, was a child of Abrama Mogga and Grace Juan. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "joyce-kiden-yanya",
+          "name": "Joyce Kiden (Yanya)",
+          "info": "Joyce Kiden, also known as Yanya, was a child of Abrama Mogga and Grace Juan. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "henry-jenge",
+          "name": "Henry Jenge",
+          "info": "Henry Jenge was a child of Abrama Mogga and Grace Juan. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "richard-taban-tongidyang",
+          "name": "Richard Taban (Tongidyang)",
+          "info": "Richard Taban, also called Tongidyang, was a child of Abrama Mogga and Pilista Juru. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "sylvia-suku-dudu",
+          "name": "Sylvia Suku (Dudu)",
+          "info": "Sylvia Suku, also called Dudu, was a child of Abrama Mogga and Pilista Juru. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "monday",
+          "name": "Monday",
+          "info": "Monday was a child of Abrama Mogga and Pilista Juru. No further details.",
+          "fatherId": "abrama-mogga",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "gamba",
+          "name": "Gamba",
+          "info": "Gamba was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "stanley-roba",
+          "name": "Stanley Roba",
+          "info": "Stanley Roba was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "nicolas-buju",
+          "name": "Nicolas Buju",
+          "info": "Nicolas Buju was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "suku-of-ebele",
+          "name": "Suku (of Ebele)",
+          "info": "Suku was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "ijang-of-ebele",
+          "name": "Ijang (of Ebele)",
+          "info": "Ijang was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "kabudu",
+          "name": "Kabudu",
+          "info": "Kabudu was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "tongidyang-dwoki",
+          "name": "Tongidyang (Dwoki)",
+          "info": "Tongidyang, sometimes called Dwoki, was a child of Ebele Kitenge and Sokale. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "taban-abel-yamba",
+          "name": "Taban Abel (Yamba)",
+          "info": "Taban Abel, also called Yamba, was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "suku-wiling-wiling",
+          "name": "Suku (Wiling-wiling)",
+          "info": "Suku, sometimes called Wiling-wiling, was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "makka",
+          "name": "Makka",
+          "info": "Makka was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "yata",
+          "name": "Yata",
+          "info": "Yata was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "kenyi-john",
+          "name": "Kenyi John",
+          "info": "Kenyi John was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lo-du-bismarck",
+          "name": "Lo’du Bismarck",
+          "info": "Lo’du Bismarck was a child of Ebele Kitenge and Yanya. No further details.",
+          "fatherId": "ebele-kitenge-doko-gubaji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "sokiri",
+          "name": "Sokiri",
+          "info": "Sokiri was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "joselin-juan-wori-giye",
+          "name": "Joselin Juan (Wori Giye)",
+          "info": "Joselin Juan, also called Wori Giye, was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "pita-na-petero",
+          "name": "Pita Na Petero",
+          "info": "Pita Na Petero was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "ko-do",
+          "name": "Ko’do",
+          "info": "Ko’do was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "buju-of-petero",
+          "name": "Buju (of Petero)",
+          "info": "Buju was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "tongidyang-of-petero",
+          "name": "Tongidyang (of Petero)",
+          "info": "Tongidyang was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "abate",
+          "name": "Abate",
+          "info": "Abate was a child of Petero Koboji. No further details.",
+          "fatherId": "petero-koboji",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "wilson-lodiong",
+          "name": "Wilson Lodiong",
+          "info": "Wilson Lodiong was a child of Wani Bungu and Tabita Yobu. Family concerns about his unsettled children, including Lena, Lemi, and Larvina (who later settled). Incidents like maid's suicide and pension dispute with Tabita resolved.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "sartiele-yama-lo-du",
+          "name": "Sartiele Yama Lo’du",
+          "info": "Sartiele Yama Lo’du was a child of Wani Bungu and Tabita Yobu. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "charity-suku",
+          "name": "Charity Suku",
+          "info": "Charity Suku was a child of Wani Bungu and Tabita Yobu. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "kiryembe",
+          "name": "Kiryembe",
+          "info": "Kiryembe was a child of Wani Bungu and Tabita Yobu. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "william-wolyan",
+          "name": "William Wolyan",
+          "info": "William Wolyan was a child of Wani Bungu and Kaku. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "escesles-nnyarsuk",
+          "name": "Escesles Nnyarsuk",
+          "info": "Escesles Nnyarsuk was a child of Wani Bungu and Kaku. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "joy-yine",
+          "name": "Joy Yine",
+          "info": "Joy Yine was a child of Wani Bungu and Kaku. No further details.",
+          "fatherId": "wani-bungu",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "gordon-sula",
+          "name": "Gordon Sula",
+          "info": "Gordon Sula was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "maika-duke",
+          "name": "Maika Duke",
+          "info": "Maika Duke was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "charles-lisi",
+          "name": "Charles Lisi",
+          "info": "Charles Lisi was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "milton-wani",
+          "name": "Milton Wani",
+          "info": "Milton Wani was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "jaguru",
+          "name": "Jaguru",
+          "info": "Jaguru was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "yine-of-purumena",
+          "name": "Yine (of Purumena)",
+          "info": "Yine was a child of Purumena Tutuan and Maria Woro. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "bulson-bulli",
+          "name": "Bulson Bulli",
+          "info": "Bulson Bulli was a child of Purumena Tutuan and Juan. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "simon-ladu",
+          "name": "Simon Ladu",
+          "info": "Simon Ladu was a child of Purumena Tutuan and Juan. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "modong-of-purumena",
+          "name": "Modong (of Purumena)",
+          "info": "Modong was a child of Purumena Tutuan and Juan. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "guo",
+          "name": "Guo",
+          "info": "Guo was a child of Purumena Tutuan and Juan. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "augustino-wolyan",
+          "name": "Augustino Wolyan",
+          "info": "Augustino Wolyan was a child of Purumena Tutuan and Juan. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "taban-nelson-tongidyang",
+          "name": "Taban Nelson (Tongidyang)",
+          "info": "Taban Nelson, also called Tongidyang, was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "suku-of-poni-na-kei",
+          "name": "Suku (of Poni Na Kei)",
+          "info": "Suku was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "dudu-of-poni-na-kei",
+          "name": "Dudu (of Poni Na Kei)",
+          "info": "Dudu was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "subek-nandera",
+          "name": "Subek Nandera",
+          "info": "Subek Nandera was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "emmanuel-lo-du",
+          "name": "Emmanuel Lo’du",
+          "info": "Emmanuel Lo’du was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "bongiri",
+          "name": "Bongiri",
+          "info": "Bongiri was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "doru-of-poni-na-kei",
+          "name": "Doru (of Poni Na Kei)",
+          "info": "Doru was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "muggo-of-poni-na-kei",
+          "name": "Muggo (of Poni Na Kei)",
+          "info": "Muggo was a child of Purumena Tutuan and Poni Na Kei. No further details.",
+          "fatherId": "purumena-logborong-tutuan",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "pita-of-morris",
+          "name": "Pita (of Morris)",
+          "info": "Pita was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
         {
           "id": "azaria-wolyan",
           "name": "Azaria Wolyan",
-          "birthYear": "01-01-1945",
-          "info": "Firstborn son of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "info": "Azaria Wolyan was a child of Morris Murye and Rebecca Kiden. Key informant for the clan history, providing invaluable knowledge and clarifications.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "soso-chaplain",
-          "name": "Soso Chaplain",
-          "birthYear": "01-01-1951",
-          "info": "Son of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "id": "chaplain-soso-tongidyang",
+          "name": "Chaplain Soso (Tongidyang)",
+          "info": "Chaplain Soso, also called Tongidyang, was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
           "id": "simon-wolyan",
           "name": "Simon Wolyan",
-          "birthYear": "10-5-1955",
-          "info": "Son of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "info": "Simon Wolyan was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "cecilia-yine",
-          "name": "Cecilia Yine",
-          "birthYear": "01-01-1958",
-          "info": "Daughter of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "id": "cecelia-yine",
+          "name": "Cecelia Yine",
+          "info": "Cecelia Yine was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
           "id": "joseph-loguli",
           "name": "Joseph Loguli",
-          "birthYear": "01-01-1960",
-          "info": "Son of Murye Morris and Rebecca Kiden, married, father of Adede Loguli and Lupai Loguli.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "info": "Joseph Loguli was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "poni-rejoice",
-          "name": "Poni Rejoice",
-          "birthYear": "01-01-1962",
-          "info": "Daughter of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "id": "rejoice-poni",
+          "name": "Rejoice Poni",
+          "info": "Rejoice Poni was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "bongo-julius",
-          "name": "Bongo Julius",
-          "birthYear": "01-10-1965",
-          "info": "Son of Murye Morris and Rebecca Kiden, married twice, father of multiple children.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
+          "id": "julius-bongo",
+          "name": "Julius Bongo",
+          "info": "Julius Bongo was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         },
         {
-          "id": "oliva-losuba",
-          "name": "Oliva Losuba",
-          "birthYear": "01-10-1968",
-          "info": "Son of Murye Morris and Rebecca Kiden.",
-          "fatherId": "murye-morris",
-          "motherId": "rebecca-kiden"
-        }
-      ]
-    },
-    {
-      "title": "Third Generation (Wives and Spouses)",
-      "people": [
+          "id": "oliver-losuba-gwolo",
+          "name": "Oliver Losuba (Gwolo)",
+          "info": "Oliver Losuba, also called Gwolo, was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
         {
-          "id": "rejoice-jaguru",
-          "name": "Rejoice Jaguru",
-          "birthYear": "12-8-1976",
-          "info": "First wife of Bongo Julius, mother of Adede Annet, Poni Jaguru, Emmanuel Wani, Evaline Juru, Yangi Sain, Kiden Patience.",
+          "id": "nora-balai",
+          "name": "Nora ‘Balai",
+          "info": "Nora ‘Balai was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "helda-suku",
+          "name": "Helda Suku",
+          "info": "Helda Suku was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "rasulia-modong",
+          "name": "Rasulia Modong",
+          "info": "Rasulia Modong was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "wanijo",
+          "name": "Wanijo",
+          "info": "Wanijo was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "lucia-yanya",
+          "name": "Lucia Yanya",
+          "info": "Lucia Yanya was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "isso-gire",
+          "name": "Isso (Gire)",
+          "info": "Isso, also called Gire, was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "mama-of-christina",
+          "name": "Mama (of Christina)",
+          "info": "Mama was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "margret-yine",
+          "name": "Margret Yine",
+          "info": "Margret Yine was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "muggo-of-christina",
+          "name": "Muggo (of Christina)",
+          "info": "Muggo was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "bismarck-bungit",
+          "name": "Bismarck Bungit",
+          "info": "Bismarck Bungit was the son of Priscilla Baye. Father unknown. No further details.",
           "fatherId": null,
-          "motherId": null
-        },
-        {
-          "id": "juan-adjumani",
-          "name": "Juan Adjumani",
-          "birthYear": "5-3-1978",
-          "info": "Second wife of Bongo Julius, mother of Kenyi Godwin, Lupai Surprise, Wani Bongo, Adede Julius, Poni Bongo.",
-          "fatherId": null,
-          "motherId": null
-        },
-        {
-          "id": "joseph-wife",
-          "name": "Arusu Loguli",
-          "birthYear": "10-5-1975",
-          "info": "Wife of Joseph Loguli, mother of Adede Loguli and Lupai Loguli.",
-          "fatherId": null,
-          "motherId": null
-        }
-      ]
-    },
-    {
-      "title": "Fourth Generation (Children of Bongo Julius & Rejoice Jaguru)",
-      "people": [
-        {
-          "id": "adede-annet",
-          "name": "Adede Annet",
-          "birthYear": "01-04-1994",
-          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Mother of Moses Pitia, Jason Sakor, and Peggy Konga.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        },
-        {
-          "id": "poni-jaguru",
-          "name": "Poni Jaguru",
-          "birthYear": "01-01-1997",
-          "deathYear": "01-01-2000",
-          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Deceased.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        },
-        {
-          "id": "emmanuel-wani",
-          "name": "Emmanuel Wani",
-          "birthYear": "09-09-1999",
-          "info": "Son of Bongo Julius and Rejoice Jaguru. Alive.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        },
-        {
-          "id": "evaline-juru",
-          "name": "Evaline Juru",
-          "birthYear": "14-07-2002",
-          "info": "Daughter of Bongo Julius and Rejoice Jaguru. Alive.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        },
-        {
-          "id": "yangi-sain",
-          "name": "Yangi Sain",
-          "birthYear": "01-01-2004",
-          "deathYear": "01-01-2005",
-          "info": "Son of Bongo Julius and Rejoice Jaguru. Deceased.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        },
-        {
-          "id": "kiden-patience",
-          "name": "Kiden Patience",
-          "birthYear": "01-02-2008",
-          "info": "Son of Bongo Julius and Rejoice Jaguru. Alive.",
-          "fatherId": "bongo-julius",
-          "motherId": "rejoice-jaguru"
-        }
-      ]
-    },
-    {
-      "title": "Fourth Generation (Children of Bongo Julius & Juan Adjumani)",
-      "people": [
-        {
-          "id": "kenyi-godwin",
-          "name": "Kenyi Godwin",
-          "birthYear": "01-01-1999",
-          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
-          "fatherId": "bongo-julius",
-          "motherId": "juan-adjumani"
-        },
-        {
-          "id": "lupai-surprise",
-          "name": "Lupai Surprise",
-          "birthYear": 2002,
-          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
-          "fatherId": "bongo-julius",
-          "motherId": "juan-adjumani"
-        },
-        {
-          "id": "wani-bongo",
-          "name": "Wani Bongo",
-          "birthYear": 2004,
-          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
-          "fatherId": "bongo-julius",
-          "motherId": "juan-adjumani"
-        },
-        {
-          "id": "adede-julius",
-          "name": "Adede Julius",
-          "birthYear": 2006,
-          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
-          "fatherId": "bongo-julius",
-          "motherId": "juan-adjumani"
-        },
-        {
-          "id": "poni-bongo",
-          "name": "Poni Bongo",
-          "birthYear": 2007,
-          "info": "Son of Bongo Julius and Juan Adjumani. Alive. Single.",
-          "fatherId": "bongo-julius",
-          "motherId": "juan-adjumani"
-        }
-      ]
-    },
-    {
-      "title": "Fourth Generation (Children of Joseph Loguli)",
-      "people": [
-        {
-          "id": "adede-loguli",
-          "name": "Adede Loguli",
-          "birthYear": 2002,
-          "info": "Daughter of Joseph Loguli and Arusu Loguli. Single.",
-          "fatherId": "joseph-loguli",
-          "motherId": "joseph-wife"
-        },
-        {
-          "id": "lupai-loguli",
-          "name": "Lupai Loguli",
-          "birthYear": 2004,
-          "info": "Son of Joseph Loguli and Arusu Loguli. Single.",
-          "fatherId": "joseph-loguli",
-          "motherId": "joseph-wife"
-        }
-      ]
-    },
-    {
-      "title": "Fifth Generation (Children of Adede Annet)",
-      "people": [
-        {
-          "id": "moses-pitia",
-          "name": "Moses Pitia",
-          "birthYear": "15-02-2015",
-          "info": "Son of Adede Annet. Alive.",
-          "fatherId": "theophilus-dilla",
-          "motherId": "adede-annet"
-        },
-        {
-          "id": "jason-sakor",
-          "name": "Jason Sakor",
-          "birthYear": "23-07-2023",
-          "info": "Son of Adede Annet. Alive.",
-          "fatherId": "theophilus-dilla",
-          "motherId": "adede-annet"
-        },
-        {
-          "id": "peggy-konga",
-          "name": "Peggy Konga",
-          "birthYear": 2025,
-          "info": "Daughter of Adede Annet. Alive.",
-          "fatherId": "theophilus-dilla",
-          "motherId": "adede-annet"
-        }
-      ]
-    },
-    {
-      "title": "Fourth Generation (In-laws / Spouses)",
-      "people": [
-        {
-          "id": "theophilus-dilla",
-          "name": "Theophilus Dilla",
-          "birthYear": "01-01-1990",
-          "info": "Husband of Adede Annet, father of Moses Pitia, Jason Sakor, and Peggy Konga.",
-          "fatherId": null,
-          "motherId": null
+          "birthYear": "unknown",
+          "deathYear": "unknown"
         }
       ]
     }
