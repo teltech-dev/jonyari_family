@@ -4,11 +4,11 @@
       "title": "First Generation",
       "people": [
         {
-          "id": "bai-meng-xiong",
-          "name": "Bai Mengxiong",
+          "id": "emmanuel",
+          "name": "Emmanuel",
           "birthYear": 1820,
           "deathYear": 1900,
-          "info": "Founder of the mansion house and imperial physician; father of three sons: Bai Yingyuan, Bai Yingxuan, Bai Yingyu."
+          "info": "Founder of the Jonyari family; father of Wani, Bongo, Joseph."
         }
       ]
     },
@@ -16,28 +16,28 @@
       "title": "Second Generation",
       "people": [
         {
-          "id": "bai-ying-yuan",
-          "name": "Bai Yingyuan",
+          "id": "wani",
+          "name": "Wani",
           "birthYear": 1845,
           "deathYear": 1925,
-          "info": "Eldest son who inherited the family business; married to Li; father of two sons: Bai Jingyi and Bai Jingsi.",
-          "fatherId": "bai-meng-xiong"
+          "info": "Eldest son; father of Soso and Losuba.",
+          "fatherId": "emmanuel"
         },
         {
-          "id": "bai-ying-xuan",
-          "name": "Bai Yingxuan",
+          "id": "bongo",
+          "name": "Bongo",
           "birthYear": 1850,
           "deathYear": 1895,
-          "info": "Second son; married to Bai Wen (second wife); father of one son Bai Jingqi and one daughter Bai Yuting.",
-          "fatherId": "bai-meng-xiong"
+          "info": "Second son; father of Murye and Morris.",
+          "fatherId": "emmanuel"
         },
         {
-          "id": "bai-ying-yu",
-          "name": "Bai Yingyu",
+          "id": "joseph",
+          "name": "Joseph",
           "birthYear": 1855,
           "deathYear": 1938,
-          "info": "Third son, a playboy; married to Zhou; father of one son Bai Jingwu and one daughter Bai Yufen.",
-          "fatherId": "bai-meng-xiong"
+          "info": "Third son; father of Kiden and Adede.",
+          "fatherId": "emmanuel"
         }
       ]
     },
@@ -45,36 +45,36 @@
       "title": "Third Generation",
       "people": [
         {
-          "id": "bai-jing-yi",
-          "name": "Bai Jingyi",
+          "id": "soso",
+          "name": "Soso",
           "birthYear": 1870,
           "deathYear": 1955,
-          "info": "Eldest son of Bai Yingyuan; continued the medical practice; married to Wang; father of Bai Zhanyuan.",
-          "fatherId": "bai-ying-yuan"
+          "info": "Eldest son of Wani; father of Margaret.",
+          "fatherId": "wani"
         },
         {
-          "id": "bai-jing-si",
-          "name": "Bai Jingsi",
+          "id": "losuba",
+          "name": "Losuba",
           "birthYear": 1873,
           "deathYear": 1958,
-          "info": "Second son of Bai Yingyuan; married to Zhao; father of Bai Zhanguang.",
-          "fatherId": "bai-ying-yuan"
+          "info": "Second son of Wani; father of Lucia.",
+          "fatherId": "wani"
         },
         {
-          "id": "bai-jing-qi",
-          "name": "Bai Jingqi",
+          "id": "murye",
+          "name": "Murye",
           "birthYear": 1880,
           "deathYear": 1970,
-          "info": "Only son of Bai Yingxuan and a central figure of the mansion; first married to Huang Chun, later to Yang Jiuhong and Li Xiangxiu; father of four sons: Bai Jingye, Bai Jinggong, Bai Jingsheng, and Bai Jingtang.",
-          "fatherId": "bai-ying-xuan"
+          "info": "Son of Bongo; father of Poni, Annet, Rebecca, Tongidyang.",
+          "fatherId": "bongo"
         },
         {
-          "id": "bai-jing-wu",
-          "name": "Bai Jingwu",
+          "id": "morris",
+          "name": "Morris",
           "birthYear": 1885,
           "deathYear": 1960,
-          "info": "Son of Bai Yingyu; married to Sun; father of Bai Zhanhai.",
-          "fatherId": "bai-ying-yu"
+          "info": "Son of Joseph; father of Gwolo.",
+          "fatherId": "joseph"
         }
       ]
     },
@@ -82,44 +82,44 @@
       "title": "Fourth Generation",
       "people": [
         {
-          "id": "bai-zhan-yuan",
-          "name": "Bai Zhanyuan",
+          "id": "kiden",
+          "name": "Kiden",
           "birthYear": 1900,
           "deathYear": 1980,
-          "info": "Son of Bai Jingyi; joined the revolution; married to He Qi; father of Bai Jianguo.",
-          "fatherId": "bai-jing-yi"
+          "info": "Son of Soso; father of Tonny Sebang.",
+          "fatherId": "soso"
         },
         {
-          "id": "bai-zhan-guang",
-          "name": "Bai Zhanguang",
+          "id": "adede",
+          "name": "Adede",
           "birthYear": 1905,
           "deathYear": 1985,
-          "info": "Son of Bai Jingsi; married to Wu; father of Bai Xiaomei (daughter).",
-          "fatherId": "bai-jing-si"
+          "info": "Son of Losuba; father of Lagu.",
+          "fatherId": "losuba"
         },
         {
-          "id": "bai-jing-ye",
-          "name": "Bai Jingye",
+          "id": "margaret",
+          "name": "Margaret",
           "birthYear": 1903,
           "deathYear": 1965,
-          "info": "Eldest son of Bai Jingqi; a prodigal; married to Tang Youqiong; father of Bai Zhan'an.",
-          "fatherId": "bai-jing-qi"
+          "info": "Daughter of Murye; mother of Duku.",
+          "fatherId": "murye"
         },
         {
-          "id": "bai-jing-gong",
-          "name": "Bai Jinggong",
+          "id": "lucia",
+          "name": "Lucia",
           "birthYear": 1908,
           "deathYear": 1992,
-          "info": "Second son of Bai Jingqi; inherited the family business; married to Zhou; father of Bai Zhanping.",
-          "fatherId": "bai-jing-qi"
+          "info": "Daughter of Murye; mother of Evaline.",
+          "fatherId": "murye"
         },
         {
-          "id": "bai-zhan-hai",
-          "name": "Bai Zhanhai",
+          "id": "poni",
+          "name": "Poni",
           "birthYear": 1910,
           "deathYear": 1990,
-          "info": "Son of Bai Jingwu; married to Li; father of Bai Jianjun.",
-          "fatherId": "bai-jing-wu"
+          "info": "Son of Morris; father of Julius.",
+          "fatherId": "morris"
         }
       ]
     },
@@ -127,36 +127,44 @@
       "title": "Fifth Generation",
       "people": [
         {
-          "id": "bai-jian-guo",
-          "name": "Bai Jianguo",
+          "id": "annet",
+          "name": "Annet",
           "birthYear": 1930,
           "deathYear": 2010,
-          "info": "Son of Bai Zhanyuan; an engineer; married to Zhang Lihua; father of Bai Haoran.",
-          "fatherId": "bai-zhan-yuan"
+          "info": "Daughter of Tonny Sebang; mother of Rejoice.",
+          "fatherId": "kiden"
         },
         {
-          "id": "bai-zhan-an",
-          "name": "Bai Zhan'an",
+          "id": "rebecca",
+          "name": "Rebecca",
           "birthYear": 1935,
           "deathYear": 2005,
-          "info": "Son of Bai Jingye; married to Wang Xiulan; father of Bai Yuxin (daughter).",
-          "fatherId": "bai-jing-ye"
+          "info": "Daughter of Lagu; mother of Jaguru.",
+          "fatherId": "adede"
         },
         {
-          "id": "bai-zhan-ping",
-          "name": "Bai Zhanping",
+          "id": "tongidyang",
+          "name": "Tongidyang",
           "birthYear": 1940,
           "deathYear": 2020,
-          "info": "Son of Bai Jinggong; a businessman; married to Chen Meiling; father of Bai Haoyu.",
-          "fatherId": "bai-jing-gong"
+          "info": "Son of Duku; father of Celina.",
+          "fatherId": "margaret"
         },
         {
-          "id": "bai-jian-jun",
-          "name": "Bai Jianjun",
+          "id": "gwolo",
+          "name": "Gwolo",
           "birthYear": 1945,
           "deathYear": 2015,
-          "info": "Son of Bai Zhanhai; a doctor; married to Liu Fang; father of Bai Haoxuan.",
-          "fatherId": "bai-zhan-hai"
+          "info": "Son of Evaline; father of Kenyi.",
+          "fatherId": "lucia"
+        },
+        {
+          "id": "tonny-sebang",
+          "name": "Tonny Sebang",
+          "birthYear": 1948,
+          "deathYear": 2020,
+          "info": "Son of Poni; father of Lupai.",
+          "fatherId": "poni"
         }
       ]
     }
