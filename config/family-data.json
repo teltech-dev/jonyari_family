@@ -7,6 +7,7 @@
           "id": "murye-morris",
           "name": "Murye Morris",
           "birthYear": "01-01-1912",
+          "deathYear": "01-01-1982",
           "info": "Grandfather of the Jonyari family, patriarch of the father side.",
           "fatherId": null,
           "motherId": null
@@ -14,7 +15,8 @@
         {
           "id": "rebecca-kiden",
           "name": "Rebecca Kiden",
-          "birthYear": "01-01-1918",
+          "birthYear": "(DoB: 01-01-1918)",
+          "deathYear": "(DoD: 01-01-2000)",
           "info": "Grandmother of the Jonyari family, matriarch of the father side, wife of Murye Morris.",
           "fatherId": null,
           "motherId": null
