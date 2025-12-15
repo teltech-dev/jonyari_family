@@ -151,13 +151,12 @@ export default function Home() {
                 className="inline-flex items-center px-3 py-2 border border-gray-300 shadow-sm text-sm leading-4 font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
               >
                 <ArrowRightOnRectangleIcon className="h-4 w-4 mr-1" />
-                Jonyari Logout (Logout)
-              </button>
+              </button><br />
             </div>
           )}
           
           <h1 className="text-3xl font-bold text-gray-900 text-center">
-            {familyFullName} Family Genealogy
+            {familyFullName} Clan Genealogy
           </h1>
           <p className="mt-2 text-gray-500 text-center text-sm tracking-wide">
             Developed By· Tella Julius <br /><br />
@@ -165,14 +164,14 @@ export default function Home() {
               href="https://teltech-dev.github.io/jonyari/" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="text-blue-600 hover:text-blue-800 hover:underline"
+              className="ml-1 inline-flex items-center text-blue-700 underline font-semibold hover:text-blue-900 hover:bg-blue-50 rounded px-1 transition-colors"
             >
               Read The Best of Jonyari History
             </Link>
           </p>
           {requireAuth && userName && (
             <p className="mt-1 text-blue-500 text-center text-xs">
-              Welcome, {familyFullName} family members
+              <br />Welcome, {familyFullName} family members
             </p>
           )}
           <div className="mt-6 flex justify-center">
