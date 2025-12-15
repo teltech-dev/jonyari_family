@@ -25,17 +25,16 @@ const Footer = () => {
             <p className="text-sm leading-6 text-gray-600">
               The app is designed and developed by Tella and Family for the Jonyari family's Geneology.
               Tella strongly believes in cheerishing and preserving family heritage for future generations.
-              Tella also encourage the Jonyari family members to contribute to our Legacy schools project, with the first rollout being the Murye Mermorial Schools Peace Projects.
-              Click on the link below to visit the first legacy school peace project and learn more.
+              Read the Jonyari History
             </p>
             <p className="text-sm leading-6 text-gray-600">
               <Link 
-                href="https://www.muryetechacademy.com" 
+                href=" https://teltech-dev.github.io/jonyari/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800 hover:underline"
               >
-                Murye Memorial Schools Peace Project
+                Read The Best of Jonyari History
               </Link>
             </p>
           </div>
@@ -51,10 +50,10 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="text-sm leading-6 text-blue-600 hover:text-blue-800"
                 >
-                  Murye Memorial Schools Peace Project (Core)
+                  Upcoming Peace Projects <br /> Memorial Schools Project (Core)
                 </Link>
                 <p className="text-xs text-gray-500 mt-1">
-                  The Murye Memorial Schools Project is dedicated to providing quality education to underprivileged children in rural areas, honoring the legacy of the Murye family and the greater Jonyari clan at large.
+                  The MM Schools Project is dedicated to providing quality education to underprivileged children in rural areas, honoring the legacy of the Murye family and the greater Jonyari clan at large.
                 </p>
               </li>
             </ul>
