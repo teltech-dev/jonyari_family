@@ -120,7 +120,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
           )}
           
           <div className="mt-6 pt-4 border-t border-gray-200">
-            <p className="text-center text-sm text-blue-600 font-medium">
+            <p className="text-center text-sm text-blue-600 font-medium" style={posi}>
               <strong>FAMILY QUOTE</strong>
               <br /><em>We rise and fall, but our roots remain interwined, drawing strength from the <strong>LOVE</strong> that binds <strong>US</strong> and the Generations that came before</em>
               <Link 
@@ -129,7 +129,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
                 rel="noopener noreferrer" 
                 className="ml-1 inline-flex items-center text-blue-700 underline font-semibold hover:text-blue-900 hover:bg-blue-50 rounded px-1 transition-colors"
               >
-               <br />MM Schools Project<br />  
+            MM Schools Project<br />  
               </Link>
             </p>
           </div>
