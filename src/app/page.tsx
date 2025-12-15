@@ -160,7 +160,7 @@ export default function Home() {
             {familyFullName} Family Genealogy
           </h1>
           <p className="mt-2 text-gray-500 text-center text-sm tracking-wide">
-            Preserving heritage · Tella Julius <br /><br />
+            Developed By· Tella Julius <br /><br />
             <Link 
               href="https://teltech-dev.github.io/jonyari/" 
               target="_blank" 
