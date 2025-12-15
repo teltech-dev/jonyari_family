@@ -123,19 +123,20 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
             <p className="text-center text-sm text-blue-600 font-medium">
               <strong>FAMILY QUOTE</strong>
               <br /><em>We rise and fall, but our roots remain interwined, drawing strength from the <strong>LOVE</strong> that binds <strong>US</strong> and the Generations that came before</em>
-              <Link 
-                href="https://www.muryetechacademy.com" 
-                target="_blank"
-                rel="noopener noreferrer" 
-                className="ml-1 inline-flex items-center text-blue-700 underline font-semibold hover:text-blue-900 hover:bg-blue-50 rounded px-1 transition-colors"
-              ><br /><br /><br />MM Schools Project<br />  
-              </Link>
             </p>
           </div>
         </form>
          {/* Bottom copyright info */}
         <div className="mt-8 border-t border-gray-200 pt-6">
           <p className="text-xs leading-5 text-gray-500 text-center">
+            <Link 
+              href="https://www.muryetechacademy.com" 
+              target="_blank"
+              rel="noopener noreferrer" 
+              className="ml-1 inline-flex items-center text-blue-700 underline font-semibold hover:text-blue-900 hover:bg-blue-50 rounded px-1 transition-colors"
+            >MM Schools Project<br />  
+            </Link>
+            <br /><br />
             &copy; {new Date().getFullYear()} Jonyari Family Genealogy Project <br /> All rights reserved. Tella Tech Software Solutions.
           </p>
         </div>
