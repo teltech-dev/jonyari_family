@@ -128,8 +128,7 @@ export default function LoginForm({ onLoginSuccess }: LoginFormProps) {
                 target="_blank"
                 rel="noopener noreferrer" 
                 className="ml-1 inline-flex items-center text-blue-700 underline font-semibold hover:text-blue-900 hover:bg-blue-50 rounded px-1 transition-colors"
-              >
-            MM Schools Project<br />  
+              ><br /><br />MM Schools Project<br />  
               </Link>
             </p>
           </div>
