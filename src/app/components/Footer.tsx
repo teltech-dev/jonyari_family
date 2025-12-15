@@ -29,7 +29,7 @@ const Footer = () => {
             </p>
             <p className="text-sm leading-6 text-gray-600">
               <Link 
-                href=" https://teltech-dev.github.io/jonyari/" 
+                href="https://teltech-dev.github.io/jonyari/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800 hover:underline"
@@ -50,7 +50,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="text-sm leading-6 text-blue-600 hover:text-blue-800"
                 >
-                  Upcoming Peace Projects <br /> Memorial Schools Project (Core)
+                  Upcoming Peace Projects (Memorial Schools Project)
                 </Link>
                 <p className="text-xs text-gray-500 mt-1">
                   The MM Schools Project is dedicated to providing quality education to underprivileged children in rural areas, honoring the legacy of the Murye family and the greater Jonyari clan at large.

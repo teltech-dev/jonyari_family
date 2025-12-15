@@ -1,5 +1,5 @@
 "use client";
-
+import Link from 'next/link';
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import FamilyTree from './components/FamilyTree';
 import TreeView from './components/TreeView';
@@ -160,7 +160,15 @@ export default function Home() {
             {familyFullName} Family Genealogy
           </h1>
           <p className="mt-2 text-gray-500 text-center text-sm tracking-wide">
-            Preserving heritage · Continuing traditions
+            Preserving heritage · Continuing traditions <br /><br />
+            <Link 
+              href="https://teltech-dev.github.io/jonyari/" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-blue-600 hover:text-blue-800 hover:underline"
+            >
+              Read The Best of Jonyari History
+            </Link>
           </p>
           {requireAuth && userName && (
             <p className="mt-1 text-blue-500 text-center text-xs">
