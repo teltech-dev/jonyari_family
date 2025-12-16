@@ -1275,6 +1275,62 @@
       "title": "7th Known Generation",
       "people": [
         {
+          "id": "juan-edina",
+          "name": "Juan Edina",
+          "info": "Juan Edina is the first born daughter of Azaria Wolyan and Rebecca Kweja. She was married to Kenyi Evance from the clan of Moje na Kolondobong in Lori, Nyepo. She gave birth to Kiden Glory, Reja Christine, Murye Emmanuel, Evaline Jogo, Samson Bulli and lastly Poni Beatrice",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "01:10:1972",
+          "deathYear": "She's alive today."
+        },
+        {
+          "id": "lo'du-simaya",
+          "name": "Lo'du Simaya",
+          "info": "Simaya is the second and first born male child of Azaria Wolyan and Rebecca Kwaje. He fathered ",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "01:01:1975",
+          "deathYear": "Alive today"
+        },
+        {
+          "id": "lupai-lawrence",
+          "name": "Lupai Lawrence",
+          "info": "Lawrence is the son of Azaria Wolyan and Kwaje. He fathered Kenyi Charles, Murye Emmanuel, Unknown baby girl, Kiden Sarah, Jale David, Bulli Isaac and Losu Joshua from his legitimate wife Jane Kaku",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "",
+          "deathYear": ""
+        },
+        {
+          "id": "suku-azaria",
+          "name": "Suku Na Azaria",
+          "info": "Suku was a daughter of Azaria and Kweja. She dead at a younger age",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "11:12:1978",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "adede-nancy",
+          "name": "Adede Nancy",
+          "info": "Nancy is a daughter of Azaria and Kwaje. She married to Boyo from (yet) and mothered childrens (yet)",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "01:09:1983",
+          "deathYear": "Active"
+        },
+            {
+          "id": "wani-bennerd",
+          "name": "Wani Bennerd",
+          "info": "Bennerd is the son of Azaria and Kwaje. He fathered Nelson Bulli from his first wife Robinnah Apayi, and he had other children with his second wife Stella Atimaku",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "16:01:1986",
+          "deathYear": "Active and Healthy"
+        },
+            {
+          "id": "lomudu-felex",
+          "name": "Lomudu Felex",
+          "info": "He was the seventh and last child of Azaria and Kwaje. He unfortunately died at an earlier age",
+          "fatherId": "azaria-wolyan",
+          "birthYear": "01:01:1988",
+          "deathYear": "01:04:1989"
+        },
+        {
           "id": "adede-annet",
           "name": "Adede Annet",
           "info": "Annet is the first born child of Bongo Julius and Rejoice Jaguru. She is married to Dilla Theophilus and they have two children together, Jason Sakor Dilla and Peggy Kongo Dilla. Annet also has a son named Moses Pitia, fathered by Jacob Kamilo.",
@@ -1368,6 +1424,110 @@
       "title": "8th Known Generation",
       "people": [
         {
+          "id": "kiden-gloria",
+          "name": "Kiden Gloria",
+          "info": "Gloria is the first child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2005",
+          "deathYear": "Active"
+        },
+        {
+          "id": "reja-christine",
+          "name": "Reja Christine",
+          "info": "Reja is the child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2007",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "murye-emmanuel-edina",
+          "name": "Murye Emmanuel Juan",
+          "info": "Murye Na Edina is the third born child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2009",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "evaline-jogo",
+          "name": "Evaline Jogo",
+          "info": "Evaline Jogo is a child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2011",
+          "deathYear": "She's alive today."
+        },
+        {
+          "id": "samson-bulli",
+          "name": "Bulli Samson",
+          "info": "Samson Bulli is a child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2014",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "poni-beatrice",
+          "name": "Poni Beatrice",
+          "info": "Beatrice Poni is the 6th and last born child of Juan Edina and Kenyi Evance",
+          "fatherId": "kenyi-evance",
+          "birthYear": "01:01:2016",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kenyi-charles",
+          "name": "Kenyi Charles Lupai",
+          "info": "Kenyi Charles is the first born child of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "09:06:2010",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "murye-emmanuel-lupai",
+          "name": "Murye Emmanuel Lupai",
+          "info": "is the child of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "09:09:2012",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "unknown-lawrence-l",
+          "name": "Unknown child of Lawrence",
+          "info": "The unknown baby girl child of Lupai Lawrence and Jane Kaku died near birth time but was named and the name is what the Author Tella couldn't find out.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "01:01:2014",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "kiden-sarah",
+          "name": "Kiden Sarah Lupai",
+          "info": "Kiden Sarah Lupai also known as Amama is the third and the first daughter of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "21:10:2015",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "jale-david-lupai",
+          "name": "Jale David Lupai",
+          "info": "Jale David is the child of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "29:04:2018",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "bulli-isaac-lupai",
+          "name": "Bulli Isaac Lupai",
+          "info": "Bulli Isaac is the child of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "16:12:2020",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "losu-joshua-lupai",
+          "name": "Losu Joshua Lupai",
+          "info": "Losu Joshua is the child of Lupai Lawrence and Jane Kaku.",
+          "fatherId": "lupai-lawrence",
+          "birthYear": "09:06:2010",
+          "deathYear": "Active and growing"
+        },
+        {
           "id": "moses-pitia",
           "name": "Moses Pitia",
           "info": "Moses Pitia is the first born son of Adede Annet, Fathered by Jacob Kamilo.",
@@ -1396,6 +1556,30 @@
     {
       "title": "In-laws of the 7th Generation",
       "people": [
+        {
+          "id": "kenyi-evance",
+          "name": "Kenyi Evance",
+          "info": "Evance is the husband of Juan Edina and father to Kiden Gloria, Reja Christine, Murye Emmanuel lo Juan, Evaline Jogo, Bulli Samson and Poni Beatrice. He is hails from the clan of Moje na kolondobong from Lori",
+          "fatherId": null,
+          "birthYear": "01:01:1968",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "modong-rejoice",
+          "name": "Modong Rejoice Simaya",
+          "info": "Modong Rejoice is the first wife of Lo'du Simaya Azaria and the mother of Kiden Pamela, Annet Gonya, Lodu Lo Lo'du Simaya, Murye Joel etc. She hails from the clan of Korsak palekerot from Kansuk.",
+          "fatherId": null,
+          "birthYear": "01:01:1983",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "jane-kaku",
+          "name": "Jane Kaku Lupai",
+          "info": "Kaku is the legitimate wife of Lupai Lawrence Azaria and the mother of Kenyi Charles, Emmanuel Murye Lupai, Unknown child of Lupai, Kiden Sarah, Jale David, Bulli Isaac and Losu Joshua. She was the daughter of Daniel Bedeng Benzamin Kenyi the former paramount chief of Nyepo payam who hailed from the clan of Porodong from Lori and his wife Mary Woro Jale from the clan of Korsak palekerot from Lori.",
+          "fatherId": null,
+          "birthYear": "01:01:1986",
+          "deathYear": "Active and Healthy"
+        },
         {
           "id": "dilla-theophilus",
           "name": "Dilla Theophilus",
