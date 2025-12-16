@@ -188,8 +188,8 @@
         },
         {
           "id": "unnamed-baby-boy-of-lo-du",
-          "name": "Unnamed Baby Boy of Lo’du",
-          "info": "The unnamed baby boy of Lo’du and Muggo. History unknown.",
+          "name": "Unnamed Baby Boy of Lo'du",
+          "info": "The unnamed baby boy of Lo'du and Muggo. History unknown.",
           "fatherId": "lo-du",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -338,7 +338,7 @@
         {
           "id": "lupe",
           "name": "Lupe",
-          "info": "Lupe was a child of Lutan and Ijang. No further details.",
+          "info": "Yaba Lupe was a child of Lutan and Ijang. No further details.",
           "fatherId": "lutan",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -468,8 +468,24 @@
           "name": "Morris Murye",
           "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina ‘Diko of Wandi.",
           "fatherId": "lupai-lubadu-moron",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1927",
+          "deathYear": "26:02:1979"
+        },
+        {
+          "id": "rebecca-kiden",
+          "name": "Rebecca Kiden",
+          "info": "Rebecca Kiden was the daughter of Wani-Konyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo).",
+          "fatherId": null,
+          "birthYear": "12:12:1930",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "christina-diko",
+          "name": "Christina 'Diko",
+          "info": "Christina 'Diko was from the Wandi clan and second legitimate wife of Morris Murye. Gave birth to Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo.",
+          "fatherId": null,
+          "birthYear": "01:01:1929",
+          "deathYear": "Deceased"
         },
         {
           "id": "elisabeta-yari",
@@ -563,22 +579,6 @@
           "id": "poni-na-kei",
           "name": "Poni Na Kei",
           "info": "Poni Na Kei was the daughter of Kei and third legitimate wife of Purumena Tutuan. Gave birth to Taban Nelson (Tongidyang), Suku, Dudu, Subek Nandera, Emmanuel Lo’du, Bongiri, Doru, and Muggo.",
-          "fatherId": null,
-          "birthYear": "unknown",
-          "deathYear": "unknown"
-        },
-        {
-          "id": "rebecca-kiden",
-          "name": "Rebecca Kiden",
-          "info": "Rebecca Kiden was the daughter of WaniKonyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo).",
-          "fatherId": null,
-          "birthYear": "unknown",
-          "deathYear": "unknown"
-        },
-        {
-          "id": "christina-diko",
-          "name": "Christina 'Diko",
-          "info": "Christina 'Diko was from the Wandi clan and second legitimate wife of Morris Murye. Gave birth to Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo.",
           "fatherId": null,
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -814,8 +814,8 @@
         },
         {
           "id": "lo-du-bismarck",
-          "name": "Lo’du Bismarck",
-          "info": "Lo’du Bismarck was a child of Ebele Kitenge and Yanya. No further details.",
+          "name": "Lo'du Bismarck",
+          "info": "Lo'du Bismarck was a child of Ebele Kitenge and Yanya. No further details.",
           "fatherId": "ebele-kitenge-doko-gubaji",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -846,8 +846,8 @@
         },
         {
           "id": "ko-do",
-          "name": "Ko’do",
-          "info": "Ko’do was a child of Petero Koboji. No further details.",
+          "name": "Ko'do",
+          "info": "Ko'do was a child of Petero Koboji. No further details.",
           "fatherId": "petero-koboji",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -886,8 +886,8 @@
         },
         {
           "id": "sartiele-yama-lo-du",
-          "name": "Sartiele Yama Lo’du",
-          "info": "Sartiele Yama Lo’du was a child of Wani Bungu and Tabita Yobu. No further details.",
+          "name": "Sartiele Yama Lo'du",
+          "info": "Sartiele Yama Lo'du was a child of Wani Bungu and Tabita Yobu. No further details.",
           "fatherId": "wani-bungu",
           "birthYear": "unknown",
           "deathYear": "unknown"
@@ -1089,69 +1089,85 @@
           "name": "Pita (of Morris)",
           "info": "Pita was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:06:1947",
+          "deathYear": "01:01:1948"
         },
         {
           "id": "azaria-wolyan",
           "name": "Azaria Wolyan",
           "info": "Azaria Wolyan was a child of Morris Murye and Rebecca Kiden. Key informant for the clan history, providing invaluable knowledge and clarifications.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "24:04:1949",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "kwaje-rebecca",
+          "name": "Kwaje Rebecca",
+          "info": "Kwaje is the legitimate one and only wife of Azaria Wolyan, the mother Lodu Simya, Lupai Lawrence, Adede Rebecca, Wani Azaria and Poni Grace.",
+          "fatherId": null,
+          "birthYear": "01:05:1950",
+          "deathYear": "Active"
         },
         {
           "id": "chaplain-soso-tongidyang",
           "name": "Chaplain Soso (Tongidyang)",
           "info": "Chaplain Soso, also called Tongidyang, was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1951",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "modong-soso",
+          "name": "Modong Na Soso",
+          "info": "Modong Na Soso is the one and only wife of Chaplain Soso Tongidyang, the mother of Adede Asanti, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
+          "fatherId":null,
+          "birthYear": "01:01:1985",
+          "deathYear": "Active"
         },
         {
           "id": "simon-wolyan",
           "name": "Simon Wolyan",
           "info": "Simon Wolyan was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:06:1954",
+          "deathYear": "01:06:2016"
         },
         {
           "id": "cecelia-yine",
           "name": "Cecelia Yine",
           "info": "Cecelia Yine was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1956",
+          "deathYear": "Alive"
         },
         {
           "id": "joseph-loguli",
           "name": "Joseph Loguli",
           "info": "Joseph Loguli was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1959",
+          "deathYear": "Alive"
         },
         {
           "id": "rejoice-poni",
           "name": "Rejoice Poni",
           "info": "Rejoice Poni was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1962",
+          "deathYear": "Alive"
         },
         {
           "id": "julius-bongo",
           "name": "Julius Bongo",
           "info": "Julius Bongo was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
+          "birthYear": "01:01:1965",
           "deathYear": "Active"
         },
         {
           "id": "rejoice-jaguru",
           "name": "Rejoice Jaguru",
-          "info": "Jaguru is the first wife of Julius Bongo and mother to Annet Adede, Late Pamela Poni, Emmanuel Wani, Evaline Juru, Late Gladis Yangi and Kiden Patience.",
+          "info": "Rejoice Jaguru is the first wife of Julius Bongo and mother to Annet Adede, Late Pamela Poni, Emmanuel Wani, Evaline Juru, Late Gladis Yangi and Kiden Patience.",
           "fatherId": null,
           "birthYear": "01:01:1975",
           "deathYear": "Active"
@@ -1165,20 +1181,12 @@
           "deathYear": "Alive and Healthy"
         },
         {
-          "id": "kwaje-rebecca",
-          "name": "Kwaje Rebecca",
-          "info": "Kwaje is the legitimate one and only wife of Azaria Wolyan, the mother Lodu Simya, Lupai Lawrence, Adede Rebecca, Wani Azaria and Poni Grace.",
-          "fatherId": null,
-          "birthYear": "01:05:1950",
-          "deathYear": "Active"
-        },
-        {
-          "id": "modong-soso",
-          "name": "Modong Na Soso",
-          "info": "Modong Na Soso is the one and only wife of Chaplain Soso Tongidyang, the mother of Adede Asanti, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
-          "fatherId":null,
-          "birthYear": "01:01:1985",
-          "deathYear": "Active"
+          "id": "isso-rebecca",
+          "name": "Isso (Na Rebecca Kiden)",
+          "info": "Isso Na Rebecca was a child of Morris Murye and Rebecca Kiden but died a baby. No further details.",
+          "fatherId": "morris-murye",
+          "birthYear": "01:01:1967",
+          "deathYear": "Alive"
         },
         {
           "id": "oliver-losuba-gwolo",
@@ -1191,74 +1199,74 @@
         {
           "id": "nora-balai",
           "name": "Nora 'Balai",
-          "info": "Nora 'Balai was a child of Morris Murye and Christina ‘Diko. No further details.",
+          "info": "Nora 'Balai was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1946",
+          "deathYear": "Deceased"
         },
         {
           "id": "helda-suku",
           "name": "Helda Suku",
           "info": "Helda Suku was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1948",
+          "deathYear": "Alive"
         },
         {
           "id": "rasulia-modong",
           "name": "Rasulia Modong",
           "info": "Rasulia Modong was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "07:07:1950",
+          "deathYear": "Alive"
         },
         {
           "id": "wanijo",
           "name": "Wanijo",
           "info": "Wanijo was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1952",
+          "deathYear": "Deceased"
         },
         {
           "id": "lucia-yanya",
           "name": "Lucia Yanya",
           "info": "Lucia Yanya was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1955",
+          "deathYear": "Alive"
         },
         {
           "id": "isso-gire",
           "name": "Isso Gire",
           "info": "Isso, also called Gire, was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1957",
+          "deathYear": "Alive"
         },
         {
           "id": "mama-of-christina",
-          "name": "Mama (of Christina)",
-          "info": "Mama was a child of Morris Murye and Christina 'Diko. No further details.",
+          "name": "Kulid Mama (of Christina)",
+          "info": "Kulid was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1960",
+          "deathYear": "Alive"
         },
         {
           "id": "margret-yine",
           "name": "Margret Yine",
           "info": "Margret Yine was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1963",
+          "deathYear": "Alive"
         },
         {
           "id": "muggo-of-christina",
           "name": "Muggo (of Christina)",
           "info": "Muggo was a child of Morris Murye and Christina 'Diko. No further details.",
           "fatherId": "morris-murye",
-          "birthYear": "unknown",
-          "deathYear": "unknown"
+          "birthYear": "01:01:1965",
+          "deathYear": "Alive"
         },
         {
           "id": "bismarck-bungit",
@@ -1270,7 +1278,6 @@
         }
       ]
     },
-
     {
       "title": "7th Known Generation",
       "people": [
@@ -1279,7 +1286,7 @@
           "name": "Juan Edina",
           "info": "Juan Edina is the first born daughter of Azaria Wolyan and Rebecca Kweja. She was married to Kenyi Evance from the clan of Moje na Kolondobong in Lori, Nyepo. She gave birth to Kiden Glory, Reja Christine, Murye Emmanuel, Evaline Jogo, Samson Bulli and lastly Poni Beatrice",
           "fatherId": "azaria-wolyan",
-          "birthYear": "01:10:1972",
+          "birthYear": "12:08:1973",
           "deathYear": "She's alive today."
         },
         {
@@ -1287,7 +1294,7 @@
           "name": "Lo'du Simaya",
           "info": "Simaya is the second and first born male child of Azaria Wolyan and Rebecca Kwaje. He fathered ",
           "fatherId": "azaria-wolyan",
-          "birthYear": "01:01:1975",
+          "birthYear": "01:07:1975",
           "deathYear": "Alive today"
         },
         {
@@ -1295,15 +1302,15 @@
           "name": "Lupai Lawrence",
           "info": "Lawrence is the son of Azaria Wolyan and Kwaje. He fathered Kenyi Charles, Murye Emmanuel, Unknown baby girl, Kiden Sarah, Jale David, Bulli Isaac and Losu Joshua from his legitimate wife Jane Kaku",
           "fatherId": "azaria-wolyan",
-          "birthYear": "",
-          "deathYear": ""
+          "birthYear": "11:12:1978",
+          "deathYear": "Alive"
         },
         {
           "id": "suku-azaria",
           "name": "Suku Na Azaria",
-          "info": "Suku was a daughter of Azaria and Kweja. She dead at a younger age",
+          "info": "Suku was a daughter of Azaria and Kweja. She died at a younger age",
           "fatherId": "azaria-wolyan",
-          "birthYear": "11:12:1978",
+          "birthYear": "11:12:1980",
           "deathYear": "Deceased"
         },
         {
@@ -1311,7 +1318,7 @@
           "name": "Adede Nancy",
           "info": "Nancy is a daughter of Azaria and Kwaje. She married to Boyo from (yet) and mothered childrens (yet)",
           "fatherId": "azaria-wolyan",
-          "birthYear": "01:09:1983",
+          "birthYear": "16:09:1983",
           "deathYear": "Active"
         },
             {
@@ -1319,7 +1326,7 @@
           "name": "Wani Bennerd",
           "info": "Bennerd is the son of Azaria and Kwaje. He fathered Nelson Bulli from his first wife Robinnah Apayi, and he had other children with his second wife Stella Atimaku",
           "fatherId": "azaria-wolyan",
-          "birthYear": "16:01:1986",
+          "birthYear": "16:07:1986",
           "deathYear": "Active and Healthy"
         },
             {
@@ -1344,7 +1351,7 @@
           "info": "Pamela was the second born daughter of Bongo Julius and Rejoice Jaguru. ",
           "fatherId": "julius-bongo",
           "birthYear": "01:01:1997",
-          "deathYear": ">01:01:2000"
+          "deathYear": "01:01:2000"
         },
         {
           "id": "emmanuel-wani",
