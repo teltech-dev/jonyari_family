@@ -466,7 +466,7 @@
         {
           "id": "morris-murye",
           "name": "Morris Murye",
-          "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina ‘Diko of Wandi.",
+          "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora 'Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina 'Diko of Wandi. Murye lived for an estimated 55years, and then he unfornately passed on. He was mourned and buried on 26th-Februry, 1979 in Boro-boro.",
           "fatherId": "lupai-lubadu-moron",
           "birthYear": "01:01:1927",
           "deathYear": "26:02:1979"
@@ -474,7 +474,7 @@
         {
           "id": "rebecca-kiden",
           "name": "Rebecca Kiden",
-          "info": "Rebecca Kiden was the daughter of Wani-Konyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo).",
+          "info": "Rebecca Kiden was the daughter of Wani-Konyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo). She was believed have lived for an estimated 72 years of age and she finally died and was mourned and buried on unkwnon date around the year 2002/2003 in Dongoda village.",
           "fatherId": null,
           "birthYear": "12:12:1930",
           "deathYear": "Deceased"
@@ -482,7 +482,7 @@
         {
           "id": "christina-diko",
           "name": "Christina 'Diko",
-          "info": "Christina 'Diko was from the Wandi clan and second legitimate wife of Morris Murye. Gave birth to Nora ‘Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo.",
+          "info": "Christina 'Diko was from the Wandi clan and second legitimate wife of Morris Murye. Gave birth to Nora 'Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo.",
           "fatherId": null,
           "birthYear": "01:01:1929",
           "deathYear": "Deceased"
@@ -1135,7 +1135,7 @@
         {
           "id": "cecelia-yine",
           "name": "Cecelia Yine",
-          "info": "Cecelia Yine was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "info": "Cecelia Yine was a child of Morris Murye and Rebecca Kiden. She married Gale from a Kakwa tribe and bore him Abe Emmanuel, Diko Jacob, kiden Elizabeth, Tabu Gloria, Amalia Stella and Poni Phionah.",
           "fatherId": "morris-murye",
           "birthYear": "01:01:1956",
           "deathYear": "Alive"
@@ -1195,6 +1195,14 @@
           "fatherId": "morris-murye",
           "birthYear": "01:02:1972",
           "deathYear": "unknown"
+        },
+        {
+          "id": "gale-cecelia",
+          "name": "Gale",
+          "info": "Gale is the legitimate husband of Cecelia Yine and he fathered Abe Emmanuel, Diko Jacob, kiden Elizabeth, Tabu Gloria, Amalia Stella and Poni Phionah.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
         },
         {
           "id": "nora-balai",
@@ -1316,26 +1324,82 @@
         {
           "id": "adede-nancy",
           "name": "Adede Nancy",
-          "info": "Nancy is a daughter of Azaria and Kwaje. She married to Boyo from (yet) and mothered childrens (yet)",
+          "info": "Nancy is a daughter of Azaria and Kwaje. She is married to Boyo Moses Maku from the clan of Romogi and produced Kiden Beatrice, Desire Kiden, Jogo Mercy, Murye Savior and Justo Igga",
           "fatherId": "azaria-wolyan",
           "birthYear": "16:09:1983",
           "deathYear": "Active"
         },
             {
-          "id": "wani-bennerd",
-          "name": "Wani Bennerd",
-          "info": "Bennerd is the son of Azaria and Kwaje. He fathered Nelson Bulli from his first wife Robinnah Apayi, and he had other children with his second wife Stella Atimaku",
+          "id": "wani-bennard",
+          "name": "Wani Bennard",
+          "info": "Bennard is the son of Azaria and Kwaje. He fathered Nelson Bulli from his wife Robina Apayi, and he had Kiden Samirah, Murye Bennard, Milla Bennard and Bulli Bennard from Stella Atimaku",
           "fatherId": "azaria-wolyan",
           "birthYear": "16:07:1986",
           "deathYear": "Active and Healthy"
         },
-            {
+        {
           "id": "lomudu-felex",
           "name": "Lomudu Felex",
-          "info": "He was the seventh and last child of Azaria and Kwaje. He unfortunately died at an earlier age",
+          "info": "Felex was the seventh and last child of Azaria and Kwaje. He unfortunately died at an earlier age",
           "fatherId": "azaria-wolyan",
           "birthYear": "01:01:1988",
           "deathYear": "01:04:1989"
+        },
+        {
+          "id": "abe-emmanuel",
+          "name": "Abe Emmanuel",
+          "info": "Abe is the first born son of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "20:12:1982",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "diko-jacob",
+          "name": "Diko Jacob",
+          "info": "Jacob is the son of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "kiden-elizabeth",
+          "name": "Kiden Elizabeth",
+          "info": "Kiden Elizabeth also known as Betty is the daughter of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "tabu-gloria",
+          "name": "Tabu Gloria",
+          "info": "Gloria is a daughter of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "grace-akulya",
+          "name": "Grace Akulya",
+          "info": "Akulya is the daughter of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "amalia-stella",
+          "name": "Amalia Stella",
+          "info": "Stella is the second last born daughter of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
+        },
+        {
+          "id": "poni-phionah",
+          "name": "Poni Phionah",
+          "info": "Phionah is the youngest daughter of Cecelia Yine and Gale.",
+          "fatherId": "gale-cecelia",
+          "birthYear": "unknown",
+          "deathYear": "Alive"
         },
         {
           "id": "adede-annet",
@@ -1424,6 +1488,30 @@
           "fatherId": "julius-bongo",
           "birthYear": "01:10:2007",
           "deathYear": "Very Healthy"
+        },
+        {
+          "id": "adede-na-simon",
+          "name": "Adede Recheal",
+          "info": "Adede Recheal was the daughter of Simon Wolyan(Kagiri) and his unkwnown wife especially to the Author.",
+          "fatherId": "simon-wolyan",
+          "birthYear": "unknown",
+          "deathYear": "29:10:2025"
+        },
+        {
+          "id": "adede-loguli-j",
+          "name": "Adede Na Joseph",
+          "info": "Adede Na Joseph is the first born daughter of Joseph Loguli and his unkwnown wife especially to the Author.",
+          "fatherId": "joseph-loguli",
+          "birthYear": "unknown",
+          "deathYear": "Very Healthy"
+        },
+        {
+          "id": "lupai-loguli-j",
+          "name": "Lupai Lo Joseph",
+          "info": "Lupai Lo Joseph is the son of Joseph Loguli and his unkwnown wife especially to the Author.",
+          "fatherId": "joseph-loguli",
+          "birthYear": "unknown",
+          "deathYear": "Very Healthy"
         }
       ]
     },
@@ -1476,6 +1564,94 @@
           "info": "Beatrice Poni is the 6th and last born child of Juan Edina and Kenyi Evance",
           "fatherId": "kenyi-evance",
           "birthYear": "01:01:2016",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kiden-pamela",
+          "name": "Kiden Pamela",
+          "info": "Kiden Pamela is the first born child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "01:01:2001",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "annet-gonya",
+          "name": "Gonya Annet",
+          "info": "Gonya Annet is the second born child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "01:01:2003",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "lodu-simaya-child",
+          "name": "Lodu Simaya Lo'du",
+          "info": "Lodu was the child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "09:06:2010",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "murye-joel",
+          "name": "Murye Joel",
+          "info": "Murye Joel is the child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "jogo-hellen",
+          "name": "Jogo Hellen",
+          "info": "Jogo Hellen is the child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "poni-simaya",
+          "name": "Poni Na Simaya",
+          "info": "Poni Na Simaya is the child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kojo-simaya",
+          "name": "Kojo Na Simaya",
+          "info": "Kojo Na Simaya is the child of Simaya Lo'du and Modong Rejoice.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "munduwa-simaya",
+          "name": "Munduwa Na Simaya",
+          "info": "Munduwa Simaya is the child of Simaya Lo'du and Suzan Kiko.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "diko-beatrice",
+          "name": "Diko Beatrice",
+          "info": "Diko Beatrice is the child of Simaya Lo'du and Suzan Kiko.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "pitia-simaya",
+          "name": "Pitia Lo Simaya",
+          "info": "Pitia Lo Simaya is the child of Simaya Lo'du and Suzan Kiko.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kiden-simaya",
+          "name": "Kiden Na Simaya",
+          "info": "Kiden Na Simaya is the child of Simaya Lo'du and Suzan Kiko.",
+          "fatherId": "simaya-lo'du",
+          "birthYear": "unknown",
           "deathYear": "Active and growing"
         },
         {
@@ -1535,6 +1711,86 @@
           "deathYear": "Active and growing"
         },
         {
+          "id": "kiden-beatrice",
+          "name": "Kiden Beatrice",
+          "info": "Kiden Beatrice is the first born child of Adede Nancy and Boyo Moses Makur.",
+          "fatherId": "moyo-moses",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "desire-kiden",
+          "name": "Desire Kiden(Na-wani)",
+          "info": " is the child of Adede Nancy and Boyo Moses Makur.",
+          "fatherId": "moyo-moses",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "jogo-mercy",
+          "name": "Jogo Mercy Boyo",
+          "info": "Jogo Mercy is the third born child of Adede Nancy and Boyo Moses Makur.",
+          "fatherId": "moyo-moses",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "murye-savior",
+          "name": "Murye Savior",
+          "info": "Murye Savior is the child of Adede Nancy and Boyo Moses Makur.",
+          "fatherId": "moyo-moses",
+          "birthYear": "17:02:2017",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "justo-igga",
+          "name": "Justo Igga",
+          "info": "Justo Igga is the last born child of Adede Nancy and Boyo Moses Makur.",
+          "fatherId": "moyo-moses",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "bulli-nelson",
+          "name": "Bulli Nelson",
+          "info": "Bulli Nelson is the first born child of Wani Bennard and Robina Apayi.",
+          "fatherId": "wani-bennard",
+          "birthYear": "01:01:2013",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kiden-samirah",
+          "name": "Kiden Samirah",
+          "info": "Kiden Samirah is the child of Wani Bennard and the first born child of his second wife Stella Atimaku.",
+          "fatherId": "wani-bennard",
+          "birthYear": "01:01:2014",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "murye-bennard",
+          "name": "Murye Bennard",
+          "info": "Murye Bennard is the child of Wani Bennard and Stella Atimaku.",
+          "fatherId": "wani-bennard",
+          "birthYear": "01:01:2016",
+          "deathYear": "01:01:2018"
+        },
+        {
+          "id": "milla-bennard",
+          "name": "Milla Bennard",
+          "info": "Milla Bennard is the child of Wani Bennard and Stella Atimaku.",
+          "fatherId": "wani-bennard",
+          "birthYear": "unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "bulli-bennard-atimaku",
+          "name": "Bulli Bennard Atimaku",
+          "info": "Bulli Bennard Atimaku is the child of Wani Bennard and Stella Atimaku.",
+          "fatherId": "wani-bennard",
+          "birthYear": "01:01:2014",
+          "deathYear": "Active and growing"
+        },
+        {
           "id": "moses-pitia",
           "name": "Moses Pitia",
           "info": "Moses Pitia is the first born son of Adede Annet, Fathered by Jacob Kamilo.",
@@ -1574,7 +1830,15 @@
         {
           "id": "modong-rejoice",
           "name": "Modong Rejoice Simaya",
-          "info": "Modong Rejoice is the first wife of Lo'du Simaya Azaria and the mother of Kiden Pamela, Annet Gonya, Lodu Lo Lo'du Simaya, Murye Joel etc. She hails from the clan of Korsak palekerot from Kansuk.",
+          "info": "Modong Rejoice is the first wife of Lo'du Simaya Azaria and the mother of Kiden Pamela, Annet Gonya, Lodu Lo Lo'du Simaya, Murye Joel, Jogo Hellen, Poni Simaya and lastly Kojo Simaya. She hails from the clan of Korsak palekerot from Kansuk.",
+          "fatherId": null,
+          "birthYear": "01:01:1983",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "suzan-kiko",
+          "name": "Suzan kiko",
+          "info": "Suzan Kiko is the second wife of Lo'du Simaya Azaria and the mother of Munduwa Simaya, 'Diko Beatrice, Pitia Simaya and lastly Kiden Simaya. She was the daughter of Yoasa Leju from the Pojulu tribe",
           "fatherId": null,
           "birthYear": "01:01:1983",
           "deathYear": "Active and Healthy"
@@ -1585,6 +1849,30 @@
           "info": "Kaku is the legitimate wife of Lupai Lawrence Azaria and the mother of Kenyi Charles, Emmanuel Murye Lupai, Unknown child of Lupai, Kiden Sarah, Jale David, Bulli Isaac and Losu Joshua. She was the daughter of Daniel Bedeng Benzamin Kenyi the former paramount chief of Nyepo payam who hailed from the clan of Porodong from Lori and his wife Mary Woro Jale from the clan of Korsak palekerot from Lori.",
           "fatherId": null,
           "birthYear": "01:01:1986",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "boyo-moses",
+          "name": "Boyo Moses Maku",
+          "info": "Boyo Moses is the legitimate husband of Adede Nancy Azaria and the father of Kiden(Na Wani) Beatrice, Desire Kiden(Na Woja), Jogo Mercy, Murye Savior and lastly Justo Igga. He was the son of Maku Yonah of Romogi clan at Kerwa in Liwolo.His mother is Antelia Juan Igga.",
+          "fatherId": null,
+          "birthYear": "01:01:1986",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "robina-apayi",
+          "name": "Robina Apayi",
+          "info": "Robina Apayi was the first wife of Wani Bennard and bored Bulli Nelson before they had a divorce. She hails from the wo'gat clan. no more information",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "Active and Healthy"
+        },
+        {
+          "id": "stella-atimaku",
+          "name": "Stella Atimaku",
+          "info": "Stella Atimaku is the current wife of Wani Bennard and the mother of Kiden Samirah, Murye Bennard, Milla Bennard and Bulli Bennard.",
+          "fatherId": null,
+          "birthYear": "unknown",
           "deathYear": "Active and Healthy"
         },
         {
