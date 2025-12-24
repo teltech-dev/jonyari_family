@@ -1189,12 +1189,42 @@
           "deathYear": "Alive"
         },
         {
-          "id": "oliver-losuba-gwolo",
+          "id": "losuba-oliver",
           "name": "Oliver Losuba (Gwolo)",
           "info": "Oliver Losuba, also called Gwolo, was a child of Morris Murye and Rebecca Kiden. No further details.",
           "fatherId": "morris-murye",
           "birthYear": "01:02:1972",
           "deathYear": "unknown"
+        },
+        {
+          "id": "simisona-mogga-loyangi",
+          "name": "Simisona Mogga Loyangi",
+          "info": "Simisona Mogga Loyangi is the father of Muja Cecelia. He belongs to the Wandi Mangole clan and is from Gaderu Boma. He is the grandfather of the children born to Losuba Oliver through his second marriage.",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Unknown"
+        },
+        {
+          "id": "yowani-tongun",
+          "name": "Yowani Tongun",
+          "info": "Yowani Tongun is the father of Esther Woro. He belongs to the elder generation of the lineage connected to Losuba Oliver through his first marriage.",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Unknown"
+        },
+        {
+          "id": "jesilen-juan",
+          "name": "Jesilen Juan",
+          "info": "Jesilen Juan wife of Simsona Mogga, the mother of Muja Cecelia. She belongs to the Worongo clan and is from Liwolo Payam.",
+          "deathYear": "Unknown"
+        },
+        {
+          "id": "taibe-jijo",
+          "name": "Taibe Jijo",
+          "info": "Taibe Jijo is the mother of Esther Woro, the second wife of Losuba Oliver. She belongs to the Wanya clan from Gaderu.",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Unknown"
         },
         {
           "id": "gale-cecelia",
@@ -1512,7 +1542,103 @@
           "fatherId": "joseph-loguli",
           "birthYear": "unknown",
           "deathYear": "Very Healthy"
-        }
+        },
+        {
+          "id": "poni-esther",
+          "name": "Poni Esther",
+          "info": "Poni Esther is the first born daughter of Losuba Oliver and Muja Cecelia. She is the mother of Joshua Murye.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "1995:02:01",
+          "deathYear": "Active"
+        },
+        {
+          "id": "fraser-loku",
+          "name": "Fraser Loku",
+          "info": "Fraser Loku is a twin son of Losuba Oliver and Muja Cecelia.. He died at a younger age.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "1997:01:01",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "kenyi-losuba",
+          "name": "Kenyi Losuba",
+          "info": "Kenyi Losuba is a twin son of Losuba Oliver and Muja Cecelia. He died at a younger age.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "1997:01:01",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "lupai-sete",
+          "name": "Lupai Sete",
+          "info": "Lupai Sete is a child of Losuba Oliver and Muja Cecelia. He died at younger age.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "1999:01:01",
+          "deathYear": "Active"
+        },
+        {
+          "id": "thomas-mogga",
+          "name": "Thomas Mogga",
+          "info": "Thomas Mogga is a son of Losuba Oliver and Muja Cecelia.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2002:10:06",
+          "deathYear": "Active"
+        },
+        {
+          "id": "evaline-poni",
+          "name": "Evaline Poni",
+          "info": "Evaline Poni is a daughter of Losuba Oliver and Muja Cecelia.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2004:08:27",
+          "deathYear": "Active"
+        },
+        {
+          "id": "stella-adede",
+          "name": "Stella Adede",
+          "info": "Stella Adede is a daughter of Losuba Oliver and Muja Cecelia.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2007:01:10",
+          "deathYear": "Active"
+        },
+        {
+          "id": "harriet-kajogo",
+          "name": "Harriet Kajogo",
+          "info": "Harriet Kajogo is the last born daughter of Losuba Oliver and Muja Cecelia.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2009:12:12",
+          "deathYear": "Active"
+        },
+        {
+          "id": "moju-losuba",
+          "name": "Moju Losuba",
+          "info": "Moju Losuba was the first born child of Losuba Oliver and Esther Woro. He passed away at a young age.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2003:01:01",
+          "deathYear": "Deceased"
+        },
+        {
+          "id": "kiden-robina",
+          "name": "Kiden Robina",
+          "info": "Kiden Robina is a daughter of Losuba Oliver and Esther Woro. She is the mother of Destiny Jijo.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2004:02:01",
+          "deathYear": "Active"
+        },
+        {
+          "id": "rose-adede",
+          "name": "Rose Adede",
+          "info": "Rose Adede is a daughter of Losuba Oliver and Esther Woro. She is the mother of Phiona Kiden.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2006:06:01",
+          "deathYear": "Active"
+        },
+        {
+          "id": "keji-scovia",
+          "name": "Keji Scovia",
+          "info": "Keji Scovia is the last born daughter of Losuba Oliver and Esther Woro.",
+          "fatherId": "losuba-oliver",
+          "birthYear": "2008:08:01",
+          "deathYear": "Active"
+        } 
       ]
     },
     {
@@ -1813,6 +1939,30 @@
           "fatherId": "dilla-theophilus",
           "birthYear": "23:07:2025",
           "deathYear": "Growing Toddler"
+        },
+        {
+          "id": "phiona-kiden",
+          "name": "Phiona Kiden",
+          "info": "Phiona Kiden is the daughter of Rose Adede.",
+          "fatherId": "unknown",
+          "birthYear": "2021:08:25",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "joshua-murye",
+          "name": "Joshua Murye",
+          "info": "Joshua Murye is the son of Poni Esther and fathered by Mercy.",
+          "fatherId": "unknown",
+          "birthYear": "2021:01:01",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "destiny-jijo",
+          "name": "Destiny Jijo",
+          "info": "Destiny Jijo is the daughter of Kiden Robina. She was born on 15 April 2022",
+          "fatherId": "unknown",
+          "birthYear": "2022:04:15",
+          "deathYear": "Active and growing"
         }
       ]
     },
