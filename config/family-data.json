@@ -466,7 +466,7 @@
         {
           "id": "morris-murye",
           "name": "Morris Murye",
-          "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora 'Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina 'Diko of Wandi. Murye lived for an estimated 55years, and then he unfornately passed on. He was mourned and buried on 26th-Februry, 1979 in Boro-boro.",
+          "info": "Morris Murye was a child of Lupai and Raele Adede. Descendants include Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, Isso (Na Rebecca Kiden), and Oliver Losuba (Gwolo) from first wife Rebecca Kiden of Loringa-Bura; Nora 'Balai, Helda Suku, Rasulia Modong, Wanijo, Lucia Yanya, Isso (Gire), Mama, Margret Yine, and Muggo from second wife Christina 'Diko of Wandi. Murye lived for an estimated 55years, and then he unfornately passed on. He was mourned and buried on 26th-Februry, 1979 in Boro-boro.",
           "fatherId": "lupai-lubadu-moron",
           "birthYear": "01:01:1927",
           "deathYear": "26:02:1979"
@@ -474,10 +474,10 @@
         {
           "id": "rebecca-kiden",
           "name": "Rebecca Kiden",
-          "info": "Rebecca Kiden was the daughter of Wani-Konyi from Loringa-Bura clan and first legitimate wife of Morris Murye. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, and Oliver Losuba (Gwolo). She was believed have lived for an estimated 72 years of age and she finally died and was mourned and buried on unkwnon date around the year 2002/2003 in Dongoda village.",
+          "info": "Rebecca Kiden was the daughter of Wani-Konyi from Loringa-Bura clan and first legitimate wife of Morris Murye, married in 1944. Gave birth to Pita, Azaria Wolyan, Chaplain Soso (Tongidyang), Simon Wolyan, Cecelia Yine, Joseph Loguli, Rejoice Poni, Julius Bongo, Isso (Na Rebecca Kiden), and Oliver Losuba (Gwolo). She was believed have lived for an estimated 73 years of age and she finally died and was mourned and buried on unkwnon date around the year 2003 in Dongoda village.",
           "fatherId": null,
           "birthYear": "12:12:1930",
-          "deathYear": "Deceased"
+          "deathYear": "01:01:2003"
         },
         {
           "id": "christina-diko",
@@ -1191,10 +1191,10 @@
         {
           "id": "losuba-oliver",
           "name": "Oliver Losuba (Gwolo)",
-          "info": "Oliver Losuba, also called Gwolo, was a child of Morris Murye and Rebecca Kiden. He married his first wife, Muja Cecelia in 1992, and together they have eight children: Poni Esther, Fraser Loku, Kenyi Losuba, Lupai Sete, Thomas Mogga, Evaline Poni, Stella Adede, and Harriet Kajogo. He married his second wife, Esther Woro in 2002, and they have five children: Moju Losuba, Kiden Robina, Rose Adede, and Keji Scovia. Losuba Oliver is an active and respected father who maintains strong connections with all his children.",
+          "info": "Oliver Losuba, also called Gwolo, was a child of Morris Murye and Rebecca Kiden. He married his first wife, Muja Cecelia in 1992, and together they have eight children: Poni Esther, the twins (Fraser Loku and Kenyi Losuba), Lupai Sete, Thomas Mogga, Evaline Poni, Stella Adede, and Harriet Kajogo. He married his second wife, Esther Woro in 2002, and they have five children: Moju Losuba, Kiden Robina, Rose Adede, and Keji Scovia. Losuba Oliver is an active and respected father who maintains strong connections with all his children.",
           "fatherId": "morris-murye",
           "birthYear": "01:02:1972",
-          "deathYear": "unknown"
+          "deathYear": "Active and Healthy"
         },
         {
           "id": "muja-cecelia",
