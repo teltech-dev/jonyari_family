@@ -1197,6 +1197,22 @@
           "deathYear": "unknown"
         },
         {
+          "id": "muja-cecelia",
+          "name": "Muja Cecelia",
+          "info": "Muja Cecelia is the first wife of Losuba Oliver. She married Losuba Oliver in 1992. She is the proud mother of Poni Esther, The twin (Fraser Loku and Kenyi Losuba), Lupai Sete, Thomas Mogga, Evaline Poni, Stella Adede, and Harriet Kajogo.",
+          "fatherId": "simisona-mogga-loyangi",
+          "birthYear": "1973:01:01",
+          "deathYear": "Active and living"
+        },
+        {
+          "id": "esther-woro",
+          "name": "Esther Woro",
+          "info": "Esther Woro is the second wife of Losuba Oliver. She married Losuba Oliver in the year 2002. She is the mother of Moju Losuba, Kiden Robina, Desstiny Jijo, Rose Adede, and Keji Scovia.",
+          "fatherId": "yowani-tongun",
+          "birthYear": "12:12:1973",
+          "deathYear": "Active and living"
+        },
+        {
           "id": "simisona-mogga-loyangi",
           "name": "Simisona Mogga Loyangi",
           "info": "Simisona Mogga Loyangi is the father of Muja Cecelia. He belongs to the Wandi Mangole clan and is from Gaderu Boma. He is the grandfather of the children born to Losuba Oliver through his second marriage.",
