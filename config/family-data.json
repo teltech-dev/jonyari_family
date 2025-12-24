@@ -1378,7 +1378,7 @@
             {
           "id": "wani-bennard",
           "name": "Wani Bennard",
-          "info": "Bennard is the son of Azaria and Kwaje. He fathered Nelson Bulli from his wife Robina Apayi, and he had Kiden Samirah, Murye Bennard, Milla Bennard and Bulli Bennard from Stella Atimaku",
+          "info": "Bennard is the son of Azaria and Kwaje. He fathered Nelson Bulli from his wife Robina Apayi, and he had Kiden Samirah  Wani , Murye Junior Wani, Milla Yasin Wani and Bulli Jordan Wani from Stella Atimaku",
           "fatherId": "azaria-wolyan",
           "birthYear": "16:07:1986",
           "deathYear": "Active and Healthy"
@@ -1893,41 +1893,41 @@
           "deathYear": "Active and growing"
         },
         {
-          "id": "bulli-nelson",
-          "name": "Bulli Nelson",
-          "info": "Bulli Nelson is the first born child of Wani Bennard and Robina Apayi.",
+          "id": "bulli-nelly-wani  ",
+          "name": "Bulli Nelly Wani  ",
+          "info": "Bulli Nelly Wani   is the first born child of Wani Bennard and Robina Apayi.",
           "fatherId": "wani-bennard",
           "birthYear": "01:01:2013",
           "deathYear": "Active and growing"
         },
         {
-          "id": "kiden-samirah",
-          "name": "Kiden Samirah",
-          "info": "Kiden Samirah is the child of Wani Bennard and the first born child of his second wife Stella Atimaku.",
+          "id": "kiden-samirah-wani ",
+          "name": "Kiden Samirah  Wani ",
+          "info": "Kiden Samirah  Wani  is the child of Wani Bennard and the first born child of his second wife Stella Atimaku.",
           "fatherId": "wani-bennard",
           "birthYear": "01:01:2014",
           "deathYear": "Active and growing"
         },
         {
-          "id": "murye-bennard",
-          "name": "Murye Bennard",
-          "info": "Murye Bennard is the child of Wani Bennard and Stella Atimaku.",
+          "id": "murye-junior-wani",
+          "name": "Murye Junior Wani",
+          "info": "Murye Junior Wani is the child of Wani Bennard and Stella Atimaku.",
           "fatherId": "wani-bennard",
           "birthYear": "01:01:2016",
           "deathYear": "01:01:2018"
         },
         {
-          "id": "milla-bennard",
-          "name": "Milla Bennard",
-          "info": "Milla Bennard is the child of Wani Bennard and Stella Atimaku.",
+          "id": "milla-yasin-wani",
+          "name": "Milla Yasin Wani",
+          "info": "Milla Yasin Wani is the child of Wani Bennard and Stella Atimaku.",
           "fatherId": "wani-bennard",
           "birthYear": "unknown",
           "deathYear": "Active and growing"
         },
         {
-          "id": "bulli-bennard-atimaku",
-          "name": "Bulli Bennard Atimaku",
-          "info": "Bulli Bennard Atimaku is the child of Wani Bennard and Stella Atimaku.",
+          "id": "bulli-jordan-wani-atimaku",
+          "name": "Bulli Jordan Wani",
+          "info": "Bulli Jordan Wani is the child of Wani Bennard and Stella Atimaku.",
           "fatherId": "wani-bennard",
           "birthYear": "01:01:2014",
           "deathYear": "Active and growing"
@@ -2028,7 +2028,7 @@
         {
           "id": "robina-apayi",
           "name": "Robina Apayi",
-          "info": "Robina Apayi was the first wife of Wani Bennard and bored Bulli Nelson before they had a divorce. She hails from the wo'gat clan. no more information",
+          "info": "Robina Apayi was the first wife of Wani Bennard and bored Bulli Nelly Wani   before they had a divorce. She hails from the wo'gat clan. no more information",
           "fatherId": null,
           "birthYear": "unknown",
           "deathYear": "Active and Healthy"
@@ -2036,7 +2036,7 @@
         {
           "id": "stella-atimaku",
           "name": "Stella Atimaku",
-          "info": "Stella Atimaku is the current wife of Wani Bennard and the mother of Kiden Samirah, Murye Bennard, Milla Bennard and Bulli Bennard.",
+          "info": "Stella Atimaku is the current wife of Wani Bennard and the mother of Kiden Samirah  Wani , Murye Junior Wani, Milla Yasin Wani and Bulli Jordan Wani.",
           "fatherId": null,
           "birthYear": "unknown",
           "deathYear": "Active and Healthy"
