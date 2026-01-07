@@ -273,6 +273,30 @@
           "fatherId": null,
           "birthYear": "unknown",
           "deathYear": "unknown"
+        },
+        {
+          "id": "poni-na-kei",
+          "name": "Poni Na Kei",
+          "info": "Poni Na Kei was the daughter of Kei and third legitimate wife of Purumena Tutuan. Gave birth to Taban Nelson (Tongidyang), Suku, Dudu, Subek Nandera, Emmanuel Lo’du, Bongiri, Doru, and Muggo.",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "unknown"
+        },
+        {
+          "id": "nelson-pitia",
+          "name": "Nelson Pitia",
+          "info": "Nelson Pitia is the husband of Jennifer Cecia, he fathered Rejoice Jaguru, the first legitimate wife of Bongo Julius",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "2018"
+        },
+        {
+          "id": "jennifer-cecia",
+          "name": "Jennifer Cecia",
+          "info": "Jennifer Cecia is the first legitimate wife of Nelson Pitia, and she mothered Rejoice Jaguru, the first wife of Bongo Julius",
+          "fatherId": null,
+          "birthYear": "unknown",
+          "deathYear": "Active"
         }
       ]
     },
@@ -1111,15 +1135,15 @@
         {
           "id": "chaplain-soso-tongidyang",
           "name": "Chaplain Soso (Tongidyang)",
-          "info": "Chaplain Soso, also called Tongidyang, was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "info": "Chaplain Soso, also called Tongidyang, was a child of Morris Murye and Rebecca Kiden. He is the father of Adede Asante, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
           "fatherId": "morris-murye",
           "birthYear": "01:01:1951",
           "deathYear": "Alive"
         },
         {
-          "id": "modong-soso",
-          "name": "Modong Na Soso",
-          "info": "Modong Na Soso is the one and only wife of Chaplain Soso Tongidyang, the mother of Adede Asanti, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
+          "id": "celina-modong",
+          "name": "Celina Modong",
+          "info": "Celina Modong is the one and only wife of Chaplain Soso Tongidyang, the mother of Adede Asante, Kojo Soso, Poni Soso, Wani Soso, Peace Soso and Joshua Soso.",
           "fatherId":null,
           "birthYear": "01:01:1985",
           "deathYear": "Active"
@@ -1151,15 +1175,23 @@
         {
           "id": "rejoice-poni",
           "name": "Rejoice Poni",
-          "info": "Rejoice Poni was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "info": "Rejoice Poni was a child of Morris Murye and Rebecca Kiden. She is the mother of Wani James, Tonny Sebang, Lagu Patrick and Duku Emmanuel.",
           "fatherId": "morris-murye",
           "birthYear": "01:01:1962",
           "deathYear": "Alive"
         },
         {
+          "id": "isaac-amuda",
+          "name": "Isaac Amuda",
+          "info": "Isaac Amuda was the husband of Rejoice Poni Murye, and he fathered of Lagu Patrick and Duku Emmanuel. Amuda hailed from the Madi tribe in Moli, Nimule.",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Deceased"
+        },        
+        {
           "id": "julius-bongo",
           "name": "Julius Bongo",
-          "info": "Julius Bongo was a child of Morris Murye and Rebecca Kiden. No further details.",
+          "info": "Julius Bongo was a child of Morris Murye and Rebecca Kiden. He fathered Adede Annet, Poni Pamela, Emmanuel Wani Tella, Evaline Juru, Gladis Yangi and Kiden Patience from first legitimate wife Rejoice Jaguru, and Kenyi Godwill, Lupai Surprise, Wani Bongo, Poni Na Bongo and lastly Adede Na Bongo from second wife Juan Bongo",
           "fatherId": "morris-murye",
           "birthYear": "01:01:1966",
           "deathYear": "Active"
@@ -1168,7 +1200,7 @@
           "id": "rejoice-jaguru",
           "name": "Rejoice Jaguru",
           "info": "Rejoice Jaguru is the first wife of Julius Bongo and mother to Annet Adede, Late Pamela Poni, Emmanuel Wani, Evaline Juru, Late Gladis Yangi and Kiden Patience.",
-          "fatherId": null,
+          "fatherId": "nelson-pitia",
           "birthYear": "01:01:1975",
           "deathYear": "Active"
         },
@@ -1390,6 +1422,86 @@
           "fatherId": "azaria-wolyan",
           "birthYear": "01:01:1988",
           "deathYear": "01:04:1989"
+        },
+        {
+          "id": "adede-asante",
+          "name": "Adede Asante",
+          "info": "Adede Asante is the first born child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "Unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "kojo-soso",
+          "name": "Kojo Soso",
+          "info": "Kojo Soso is the child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "Unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "poni-soso",
+          "name": "Poni Soso",
+          "info": "Poni Soso is the child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "Unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "wani-soso",
+          "name": "Wani Soso",
+          "info": "Wani Soso is the child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "Unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "peace-soso",
+          "name": "Peace Soso",
+          "info": "Peace Soso is the child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "Unknown",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id": "joshua-soso",
+          "name": "Joshua Soso",
+          "info": "Joshua Soso is the child of Chaplain Soso and Celina Modong. No further details yet",
+          "fatherId": "chaplain-soso-tongidyang",
+          "birthYear": "19:12:2018",
+          "deathYear": "Active and growing"
+        },
+        {
+          "id":"james-wani-gobeng",
+          "name": "James Wani",
+          "info": "James Wani also known as Gobeng is the first born child of Rejoice Poni Murye. He fathered Kiden Desire and Murye Ramax from first wife Puru Scola and then he had other children",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Active"
+        },
+        {
+          "id":"tonny-sebang",
+          "name": "Tonny Sebang",
+          "info": "Tonny Sebang is the child of Rejoice Poni Murye. He fathered Abigail Kiden, Weaver Tonny, and Jasmin Tonny from first legitimate wife Kiden. Tonny also fathered Murye Tonny from Evaline Tonny",
+          "fatherId": null,
+          "birthYear": "Unknown",
+          "deathYear": "Active"
+        },
+        {
+          "id":"lagu-patrick",
+          "name": "Lagu Patrick",
+          "info": "Lagu Patrick is the child of Isaac Amuda and Rejoice Poni Murye. No further information",
+          "fatherId": "isaac-amuda",
+          "birthYear": "Unknown",
+          "deathYear": "Active"
+        },
+        {
+          "id":"duku-emmanuel-amuda",
+          "name": "Duku Emmanuel Amuda",
+          "info": "Duku Emmanuel is the child of Isaac Amuda and Rejoice Poni Murye. No further information",
+          "fatherId": "isaac-amuda",
+          "birthYear": "Unknown",
+          "deathYear": "Active"
         },
         {
           "id": "abe-emmanuel",
